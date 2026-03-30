@@ -296,9 +296,11 @@ def save_checkpoint(model, optimizer, scheduler, epoch, history, filepath):
     torch.save(checkpoint, filepath)
 
 
-def load_checkpoint(model, optimizer=None, scheduler=None, filepath=config.BEST_MODEL_PATH):
+def load_checkpoint(model, optimizer=None, scheduler=None, filepath=config.BEST_MODEL_PATH_GENERAL, device=None):
     """Load training checkpoint."""
-    checkpoint = torch.load(filepath, map_location=config.DEVICE)
+    if device is None:
+        device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    checkpoint = torch.load(filepath, map_location=device)
     model.load_state_dict(checkpoint['model_state_dict'])
 
     if optimizer and 'optimizer_state_dict' in checkpoint:

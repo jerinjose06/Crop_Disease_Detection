@@ -15,8 +15,7 @@ from utils import load_checkpoint
 class CropDiseasePredictor:
     """Predictor class for crop disease identification."""
 
-    def __init__(self, model_path=config.BEST_MODEL_PATH, model_type='full',
-                 device=None):
+    def __init__(self, model_path, model_type, class_names, device=None):
         """
         Initialize predictor.
 
@@ -30,7 +29,7 @@ class CropDiseasePredictor:
         )
 
         # Load model
-        self.model = get_model(model_type=model_type)
+        self.model = get_model(model_type=model_type, num_classes=len(class_names))
         self.model, _, _, _ = load_checkpoint(self.model, filepath=model_path)
         self.model = self.model.to(self.device)
         self.model.eval()
@@ -45,7 +44,7 @@ class CropDiseasePredictor:
             )
         ])
 
-        self.class_names = config.CLASS_NAMES
+        self.class_names = class_names
 
         # Load remedies
         self.remedies = {}
@@ -54,7 +53,7 @@ class CropDiseasePredictor:
             with open(remedies_path, 'r', encoding='utf-8') as f:
                 self.remedies = json.load(f)
 
-        print(f"Model loaded from {model_path}")
+        print(f"Model ({model_type}) loaded from {model_path}")
         print(f"Using device: {self.device}")
 
     def predict(self, image_path, top_k=5):
@@ -216,9 +215,9 @@ if __name__ == '__main__':
             print("No image selected. Exiting.")
             sys.exit(0)
             
-    print(f"Loading model and preparing to predict for: {image_path}")
+    print(f"Loading general model and preparing to predict for: {image_path}")
     try:
-        predictor = CropDiseasePredictor()
+        predictor = CropDiseasePredictor(model_path=config.BEST_MODEL_PATH_GENERAL, model_type='full', class_names=config.CLASS_NAMES_GENERAL)
         predictor.predict_and_display(image_path)
     except Exception as e:
         print(f"Error during prediction: {e}")

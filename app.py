@@ -11,11 +11,21 @@ app = Flask(__name__)
 # Initialize predictor at startup to avoid reloading model per request
 print("Loading model for the web application...")
 try:
-    predictor = CropDiseasePredictor(model_path=config.BEST_MODEL_PATH, model_type='full')
+    general_predictor = CropDiseasePredictor(
+        model_path=config.BEST_MODEL_PATH_GENERAL,
+        model_type='full',
+        class_names=config.CLASS_NAMES_GENERAL
+    )
+    banana_predictor = CropDiseasePredictor(
+        model_path=config.BEST_MODEL_PATH_BANANA,
+        model_type='light',
+        class_names=config.CLASS_NAMES_BANANA
+    )
     model_loaded = True
 except Exception as e:
-    print(f"Warning: Failed to load model. Error: {e}")
-    predictor = None
+    print(f"Warning: Failed to load models. Error: {e}")
+    general_predictor = None
+    banana_predictor = None
     model_loaded = False
 
 @app.route('/')
@@ -42,11 +52,24 @@ def predict_endpoint():
         
         try:
             file.save(temp_path)
-            # Run prediction logic using existing Python function
-            results = predictor.predict(temp_path, top_k=3)
+            # Run prediction on both models
+            results_general = general_predictor.predict(temp_path, top_k=3)
+            results_banana = banana_predictor.predict(temp_path, top_k=3)
+            
+            # Compare the top prediction from both models
+            top_general = results_general[0]
+            top_banana = results_banana[0]
+            
+            if top_banana['probability'] > top_general['probability']:
+                final_results = results_banana
+                print(f"[Model Selector] Chose Banana Model ({top_banana['percentage']:.2f}% vs {top_general['percentage']:.2f}%)")
+            else:
+                final_results = results_general
+                print(f"[Model Selector] Chose General Model ({top_general['percentage']:.2f}% vs {top_banana['percentage']:.2f}%)")
+
             return jsonify({
                 'success': True,
-                'predictions': results
+                'predictions': final_results
             })
         except Exception as e:
             return jsonify({'success': False, 'error': str(e)}), 500

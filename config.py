@@ -29,7 +29,8 @@ DROPOUT_RATE = 0.5
 
 # Output paths
 MODEL_SAVE_PATH = "saved_models"
-BEST_MODEL_PATH = os.path.join(MODEL_SAVE_PATH, "best_model.pth")
+BEST_MODEL_PATH_GENERAL = os.path.join(MODEL_SAVE_PATH, "best_model.pth")
+BEST_MODEL_PATH_BANANA = os.path.join(MODEL_SAVE_PATH, "banana_best_model.pth")
 RESULTS_DIR = "results"
 PLOTS_DIR = os.path.join(RESULTS_DIR, "plots")
 
@@ -44,8 +45,8 @@ DEVICE = "cuda"  # Will be updated in main.py based on availability
 # Random seed for reproducibility
 SEED = 42
 
-# Class names (38 classes in the dataset)
-CLASS_NAMES = [
+# Class names for general crop diseases (38 classes)
+CLASS_NAMES_GENERAL = [
     'Apple___Apple_scab',
     'Apple___Black_rot',
     'Apple___Cedar_apple_rust',
@@ -86,4 +87,13 @@ CLASS_NAMES = [
     'Tomato___healthy'
 ]
 
-NUM_CLASSES = len(CLASS_NAMES)
+# Class names for banana diseases
+CLASS_NAMES_BANANA = [
+    'Banana___Cordana',
+    'Banana___healthy',
+    'Banana___Pestalotiopsis',
+    'Banana___Sigatoka'
+]
+
+NUM_CLASSES_GENERAL = len(CLASS_NAMES_GENERAL)
+NUM_CLASSES_BANANA = len(CLASS_NAMES_BANANA)

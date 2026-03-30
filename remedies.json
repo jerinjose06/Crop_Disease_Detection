@@ -1,1924 +1,1986 @@
 {
-    "Apple___Apple_scab": {
-        "disease_name": "Apple Scab",
-        "plant": "Apple",
-        "scientific_name": "Venturia inaequalis",
-        "type": "Fungal",
-        "is_healthy": false,
-        "description": "Apple scab is a serious fungal disease that causes dark, olive-green to black lesions on leaves, fruits, and sometimes on young twigs. The fungus overwinters in fallen infected leaves on the ground.",
-        "symptoms": [
-            "Olive-green to dark brown velvety spots on leaves",
-            "Scabby, rough, cracked lesions on fruit surface",
-            "Premature leaf drop and defoliation",
-            "Distorted and stunted fruit growth",
-            "Yellowing of leaves around infected areas"
-        ],
-        "causes": [
-            "Fungal spores spread by wind and rain splash",
-            "Cool, wet spring weather favors infection",
-            "Overwintering fungus in fallen leaves",
-            "High humidity and prolonged leaf wetness"
-        ],
-        "remedies": {
-            "chemical": [
-                "Apply captan fungicide at green tip stage and repeat every 7-10 days",
-                "Use myclobutanil (Rally) during primary scab season",
-                "Apply mancozeb as a protective fungicide before rain events",
-                "Use dodine (Syllit) for early-season applications",
-                "Apply sulfur-based fungicides during dry periods"
-            ],
-            "organic": [
-                "Apply neem oil spray every 7-14 days during growing season",
-                "Use sulfur-based organic fungicides as preventive treatment",
-                "Spray copper-based fungicides (Bordeaux mixture) in early spring",
-                "Apply potassium bicarbonate solution to affected areas",
-                "Use compost tea sprays to boost plant immunity"
-            ],
-            "cultural": [
-                "Rake and destroy fallen infected leaves in autumn",
-                "Prune trees to improve air circulation within canopy",
-                "Plant scab-resistant apple varieties (Liberty, Enterprise, Freedom)",
-                "Avoid overhead irrigation to reduce leaf wetness",
-                "Apply urea spray (5%) to fallen leaves in autumn to accelerate decomposition",
-                "Maintain proper tree spacing for adequate airflow"
-            ],
-            "biological": [
-                "Apply Bacillus subtilis-based biofungicides",
-                "Use Trichoderma harzianum as soil drench and foliar spray",
-                "Encourage beneficial microorganisms through compost application"
-            ]
-        },
-        "prevention_tips": [
-            "Choose resistant varieties when planting new trees",
-            "Monitor weather conditions and apply fungicides before rain",
-            "Start fungicide program at green tip stage",
-            "Maintain good orchard sanitation year-round"
-        ],
-        "severity": "High",
-        "spread_rate": "Moderate to High"
+  "Apple___Apple_scab": {
+    "disease_name": "Apple Scab",
+    "plant": "Apple",
+    "scientific_name": "Venturia inaequalis",
+    "type": "Fungal",
+    "is_healthy": false,
+    "description": "Apple scab is a serious fungal disease that causes dark, olive-green to black lesions on leaves, fruits, and sometimes on young twigs. The fungus overwinters in fallen infected leaves on the ground.",
+    "symptoms": [
+      "Olive-green to dark brown velvety spots on leaves",
+      "Scabby, rough, cracked lesions on fruit surface",
+      "Premature leaf drop and defoliation",
+      "Distorted and stunted fruit growth",
+      "Yellowing of leaves around infected areas"
+    ],
+    "causes": [
+      "Fungal spores spread by wind and rain splash",
+      "Cool, wet spring weather favors infection",
+      "Overwintering fungus in fallen leaves",
+      "High humidity and prolonged leaf wetness"
+    ],
+    "remedies": {
+      "chemical": [
+        "Apply captan fungicide at green tip stage and repeat every 7-10 days",
+        "Use myclobutanil (Rally) during primary scab season",
+        "Apply mancozeb as a protective fungicide before rain events",
+        "Use dodine (Syllit) for early-season applications",
+        "Apply sulfur-based fungicides during dry periods"
+      ],
+      "organic": [
+        "Apply neem oil spray every 7-14 days during growing season",
+        "Use sulfur-based organic fungicides as preventive treatment",
+        "Spray copper-based fungicides (Bordeaux mixture) in early spring",
+        "Apply potassium bicarbonate solution to affected areas",
+        "Use compost tea sprays to boost plant immunity"
+      ],
+      "cultural": [
+        "Rake and destroy fallen infected leaves in autumn",
+        "Prune trees to improve air circulation within canopy",
+        "Plant scab-resistant apple varieties (Liberty, Enterprise, Freedom)",
+        "Avoid overhead irrigation to reduce leaf wetness",
+        "Apply urea spray (5%) to fallen leaves in autumn to accelerate decomposition",
+        "Maintain proper tree spacing for adequate airflow"
+      ],
+      "biological": [
+        "Apply Bacillus subtilis-based biofungicides",
+        "Use Trichoderma harzianum as soil drench and foliar spray",
+        "Encourage beneficial microorganisms through compost application"
+      ]
     },
-
-    "Apple___Black_rot": {
-        "disease_name": "Black Rot",
-        "plant": "Apple",
-        "scientific_name": "Botryosphaeria obtusa",
-        "type": "Fungal",
-        "is_healthy": false,
-        "description": "Black rot is a fungal disease affecting leaves, fruit, and bark of apple trees. It causes frogeye leaf spots, fruit rot, and cankers on limbs, potentially leading to significant crop losses.",
-        "symptoms": [
-            "Frogeye leaf spot - circular brown lesions with purple margins",
-            "Large, expanding brown to black rot on fruit starting from calyx end",
-            "Concentric rings of brown and black on rotting fruit",
-            "Mummified fruit remaining on tree through winter",
-            "Sunken cankers on bark of branches and trunk"
-        ],
-        "causes": [
-            "Fungus enters through wounds, insect damage, or natural openings",
-            "Warm, humid weather conditions promote infection",
-            "Mummified fruit and dead wood serve as inoculum sources",
-            "Stressed trees are more susceptible"
-        ],
-        "remedies": {
-            "chemical": [
-                "Apply captan or thiophanate-methyl fungicides during growing season",
-                "Use strobilurin fungicides (pyraclostrobin) at petal fall",
-                "Apply myclobutanil for combined scab and black rot control",
-                "Spray copper hydroxide during dormant season"
-            ],
-            "organic": [
-                "Apply neem oil spray as preventive measure",
-                "Use copper-based organic fungicides in early spring",
-                "Spray Bordeaux mixture during dormant season",
-                "Apply sulfur-based fungicides during growing season"
-            ],
-            "cultural": [
-                "Remove and destroy all mummified fruit from trees and ground",
-                "Prune out dead wood and cankers during dormant season",
-                "Remove fire-blight-killed tissue which can harbor the fungus",
-                "Maintain overall tree health through proper fertilization",
-                "Improve air circulation through proper pruning",
-                "Control insect pests to reduce wound entry points"
-            ],
-            "biological": [
-                "Apply Bacillus subtilis-based products as preventive sprays",
-                "Use Trichoderma-based biofungicides on pruning wounds"
-            ]
-        },
-        "prevention_tips": [
-            "Remove all sources of inoculum (mummified fruit, dead wood)",
-            "Keep trees healthy and vigorous through proper care",
-            "Start fungicide applications at petal fall",
-            "Combine with scab management program for best results"
-        ],
-        "severity": "Moderate to High",
-        "spread_rate": "Moderate"
+    "prevention_tips": [
+      "Choose resistant varieties when planting new trees",
+      "Monitor weather conditions and apply fungicides before rain",
+      "Start fungicide program at green tip stage",
+      "Maintain good orchard sanitation year-round"
+    ],
+    "severity": "High",
+    "spread_rate": "Moderate to High"
+  },
+  "Apple___Black_rot": {
+    "disease_name": "Black Rot",
+    "plant": "Apple",
+    "scientific_name": "Botryosphaeria obtusa",
+    "type": "Fungal",
+    "is_healthy": false,
+    "description": "Black rot is a fungal disease affecting leaves, fruit, and bark of apple trees. It causes frogeye leaf spots, fruit rot, and cankers on limbs, potentially leading to significant crop losses.",
+    "symptoms": [
+      "Frogeye leaf spot - circular brown lesions with purple margins",
+      "Large, expanding brown to black rot on fruit starting from calyx end",
+      "Concentric rings of brown and black on rotting fruit",
+      "Mummified fruit remaining on tree through winter",
+      "Sunken cankers on bark of branches and trunk"
+    ],
+    "causes": [
+      "Fungus enters through wounds, insect damage, or natural openings",
+      "Warm, humid weather conditions promote infection",
+      "Mummified fruit and dead wood serve as inoculum sources",
+      "Stressed trees are more susceptible"
+    ],
+    "remedies": {
+      "chemical": [
+        "Apply captan or thiophanate-methyl fungicides during growing season",
+        "Use strobilurin fungicides (pyraclostrobin) at petal fall",
+        "Apply myclobutanil for combined scab and black rot control",
+        "Spray copper hydroxide during dormant season"
+      ],
+      "organic": [
+        "Apply neem oil spray as preventive measure",
+        "Use copper-based organic fungicides in early spring",
+        "Spray Bordeaux mixture during dormant season",
+        "Apply sulfur-based fungicides during growing season"
+      ],
+      "cultural": [
+        "Remove and destroy all mummified fruit from trees and ground",
+        "Prune out dead wood and cankers during dormant season",
+        "Remove fire-blight-killed tissue which can harbor the fungus",
+        "Maintain overall tree health through proper fertilization",
+        "Improve air circulation through proper pruning",
+        "Control insect pests to reduce wound entry points"
+      ],
+      "biological": [
+        "Apply Bacillus subtilis-based products as preventive sprays",
+        "Use Trichoderma-based biofungicides on pruning wounds"
+      ]
     },
-
-    "Apple___Cedar_apple_rust": {
-        "disease_name": "Cedar Apple Rust",
-        "plant": "Apple",
-        "scientific_name": "Gymnosporangium juniperi-virginianae",
-        "type": "Fungal",
-        "is_healthy": false,
-        "description": "Cedar apple rust is a fungal disease that requires two hosts to complete its life cycle - apple trees and eastern red cedar (juniper). It causes distinctive orange-yellow spots on apple leaves and fruit.",
-        "symptoms": [
-            "Bright yellow-orange spots on upper leaf surface",
-            "Small black dots (pycnia) in center of yellow spots",
-            "Tube-like projections (aecia) on undersides of leaves",
-            "Similar spots on fruit causing deformation",
-            "Premature defoliation in severe cases"
-        ],
-        "causes": [
-            "Requires both apple and cedar/juniper hosts nearby",
-            "Spores travel by wind from cedar galls to apple trees",
-            "Warm spring rains trigger spore release from cedar galls",
-            "Wet conditions during spring favor infection"
-        ],
-        "remedies": {
-            "chemical": [
-                "Apply myclobutanil (Rally) at pink bud stage through petal fall",
-                "Use propiconazole (Tilt) fungicide during spring infection period",
-                "Apply triadimefon at first sign of orange spots",
-                "Spray mancozeb as protective fungicide every 7-10 days in spring"
-            ],
-            "organic": [
-                "Apply sulfur-based fungicides starting at pink bud stage",
-                "Use neem oil spray every 7 days during high-risk period",
-                "Apply copper-based fungicides in early spring",
-                "Spray potassium bicarbonate solution for mild infections"
-            ],
-            "cultural": [
-                "Remove nearby cedar and juniper trees within 1-2 miles if possible",
-                "Remove cedar galls from juniper trees before spring",
-                "Plant rust-resistant apple varieties (Redfree, Liberty, Freedom)",
-                "Improve air circulation around trees through proper spacing",
-                "Avoid planting apple trees near cedar windbreaks"
-            ],
-            "biological": [
-                "Apply Bacillus subtilis-based biofungicides as preventive sprays",
-                "Use beneficial microbial sprays to boost plant immune response"
-            ]
-        },
-        "prevention_tips": [
-            "Remove cedar/juniper trees within 2-mile radius if feasible",
-            "Plant resistant varieties in areas prone to cedar apple rust",
-            "Monitor cedar trees for galls and remove them before spring",
-            "Begin fungicide program at pink bud stage"
-        ],
-        "severity": "Moderate",
-        "spread_rate": "Moderate"
+    "prevention_tips": [
+      "Remove all sources of inoculum (mummified fruit, dead wood)",
+      "Keep trees healthy and vigorous through proper care",
+      "Start fungicide applications at petal fall",
+      "Combine with scab management program for best results"
+    ],
+    "severity": "Moderate to High",
+    "spread_rate": "Moderate"
+  },
+  "Apple___Cedar_apple_rust": {
+    "disease_name": "Cedar Apple Rust",
+    "plant": "Apple",
+    "scientific_name": "Gymnosporangium juniperi-virginianae",
+    "type": "Fungal",
+    "is_healthy": false,
+    "description": "Cedar apple rust is a fungal disease that requires two hosts to complete its life cycle - apple trees and eastern red cedar (juniper). It causes distinctive orange-yellow spots on apple leaves and fruit.",
+    "symptoms": [
+      "Bright yellow-orange spots on upper leaf surface",
+      "Small black dots (pycnia) in center of yellow spots",
+      "Tube-like projections (aecia) on undersides of leaves",
+      "Similar spots on fruit causing deformation",
+      "Premature defoliation in severe cases"
+    ],
+    "causes": [
+      "Requires both apple and cedar/juniper hosts nearby",
+      "Spores travel by wind from cedar galls to apple trees",
+      "Warm spring rains trigger spore release from cedar galls",
+      "Wet conditions during spring favor infection"
+    ],
+    "remedies": {
+      "chemical": [
+        "Apply myclobutanil (Rally) at pink bud stage through petal fall",
+        "Use propiconazole (Tilt) fungicide during spring infection period",
+        "Apply triadimefon at first sign of orange spots",
+        "Spray mancozeb as protective fungicide every 7-10 days in spring"
+      ],
+      "organic": [
+        "Apply sulfur-based fungicides starting at pink bud stage",
+        "Use neem oil spray every 7 days during high-risk period",
+        "Apply copper-based fungicides in early spring",
+        "Spray potassium bicarbonate solution for mild infections"
+      ],
+      "cultural": [
+        "Remove nearby cedar and juniper trees within 1-2 miles if possible",
+        "Remove cedar galls from juniper trees before spring",
+        "Plant rust-resistant apple varieties (Redfree, Liberty, Freedom)",
+        "Improve air circulation around trees through proper spacing",
+        "Avoid planting apple trees near cedar windbreaks"
+      ],
+      "biological": [
+        "Apply Bacillus subtilis-based biofungicides as preventive sprays",
+        "Use beneficial microbial sprays to boost plant immune response"
+      ]
     },
-
-    "Apple___healthy": {
-        "disease_name": "Healthy",
-        "plant": "Apple",
-        "scientific_name": null,
-        "type": "Healthy",
-        "is_healthy": true,
-        "description": "The apple plant is healthy with no signs of disease. Leaves appear green, uniform in color, and free from spots, lesions, or discoloration.",
-        "symptoms": [],
-        "causes": [],
-        "remedies": {
-            "maintenance": [
-                "Continue regular watering schedule - deep watering 1-2 times per week",
-                "Apply balanced fertilizer (10-10-10) in early spring before bud break",
-                "Prune annually during dormant season to maintain shape and airflow",
-                "Apply dormant oil spray in late winter to control overwintering pests",
-                "Mulch around base with 2-4 inches of organic mulch",
-                "Monitor regularly for early signs of disease or pest damage",
-                "Test soil pH annually - apple trees prefer pH 6.0-7.0",
-                "Thin fruit in early summer for better size and quality"
-            ]
-        },
-        "prevention_tips": [
-            "Maintain good orchard hygiene by removing fallen leaves and fruit",
-            "Follow an integrated pest management (IPM) program",
-            "Ensure adequate spacing between trees for air circulation",
-            "Keep trees well-watered during dry periods",
-            "Apply preventive fungicide sprays during high-risk weather"
-        ],
-        "severity": "None",
-        "spread_rate": "N/A"
+    "prevention_tips": [
+      "Remove cedar/juniper trees within 2-mile radius if feasible",
+      "Plant resistant varieties in areas prone to cedar apple rust",
+      "Monitor cedar trees for galls and remove them before spring",
+      "Begin fungicide program at pink bud stage"
+    ],
+    "severity": "Moderate",
+    "spread_rate": "Moderate"
+  },
+  "Apple___healthy": {
+    "disease_name": "Healthy",
+    "plant": "Apple",
+    "scientific_name": null,
+    "type": "Healthy",
+    "is_healthy": true,
+    "description": "The apple plant is healthy with no signs of disease. Leaves appear green, uniform in color, and free from spots, lesions, or discoloration.",
+    "symptoms": [],
+    "causes": [],
+    "remedies": {
+      "maintenance": [
+        "Continue regular watering schedule - deep watering 1-2 times per week",
+        "Apply balanced fertilizer (10-10-10) in early spring before bud break",
+        "Prune annually during dormant season to maintain shape and airflow",
+        "Apply dormant oil spray in late winter to control overwintering pests",
+        "Mulch around base with 2-4 inches of organic mulch",
+        "Monitor regularly for early signs of disease or pest damage",
+        "Test soil pH annually - apple trees prefer pH 6.0-7.0",
+        "Thin fruit in early summer for better size and quality"
+      ]
     },
-
-    "Blueberry___healthy": {
-        "disease_name": "Healthy",
-        "plant": "Blueberry",
-        "scientific_name": null,
-        "type": "Healthy",
-        "is_healthy": true,
-        "description": "The blueberry plant is healthy with no visible signs of disease. Leaves are dark green, intact, and showing normal growth patterns.",
-        "symptoms": [],
-        "causes": [],
-        "remedies": {
-            "maintenance": [
-                "Maintain soil pH between 4.5-5.5 (acidic) for optimal growth",
-                "Water consistently - blueberries need 1-2 inches of water per week",
-                "Apply acidic fertilizer (ammonium sulfate) in early spring",
-                "Mulch with pine needles, sawdust, or wood chips (4-6 inches deep)",
-                "Prune annually to remove old, unproductive canes",
-                "Net plants to protect fruit from birds",
-                "Test soil annually and amend with sulfur if pH is too high",
-                "Apply compost annually to improve soil organic matter"
-            ]
-        },
-        "prevention_tips": [
-            "Ensure proper drainage - blueberries don't tolerate waterlogging",
-            "Avoid overhead irrigation to reduce disease risk",
-            "Plant in full sun for best fruit production",
-            "Space plants adequately for good air circulation",
-            "Remove and destroy any diseased plant material promptly"
-        ],
-        "severity": "None",
-        "spread_rate": "N/A"
+    "prevention_tips": [
+      "Maintain good orchard hygiene by removing fallen leaves and fruit",
+      "Follow an integrated pest management (IPM) program",
+      "Ensure adequate spacing between trees for air circulation",
+      "Keep trees well-watered during dry periods",
+      "Apply preventive fungicide sprays during high-risk weather"
+    ],
+    "severity": "None",
+    "spread_rate": "N/A"
+  },
+  "Blueberry___healthy": {
+    "disease_name": "Healthy",
+    "plant": "Blueberry",
+    "scientific_name": null,
+    "type": "Healthy",
+    "is_healthy": true,
+    "description": "The blueberry plant is healthy with no visible signs of disease. Leaves are dark green, intact, and showing normal growth patterns.",
+    "symptoms": [],
+    "causes": [],
+    "remedies": {
+      "maintenance": [
+        "Maintain soil pH between 4.5-5.5 (acidic) for optimal growth",
+        "Water consistently - blueberries need 1-2 inches of water per week",
+        "Apply acidic fertilizer (ammonium sulfate) in early spring",
+        "Mulch with pine needles, sawdust, or wood chips (4-6 inches deep)",
+        "Prune annually to remove old, unproductive canes",
+        "Net plants to protect fruit from birds",
+        "Test soil annually and amend with sulfur if pH is too high",
+        "Apply compost annually to improve soil organic matter"
+      ]
     },
-
-    "Cherry_(including_sour)___Powdery_mildew": {
-        "disease_name": "Powdery Mildew",
-        "plant": "Cherry",
-        "scientific_name": "Podosphaera clandestina",
-        "type": "Fungal",
-        "is_healthy": false,
-        "description": "Powdery mildew on cherry trees appears as white, powdery fungal growth on leaves, shoots, and sometimes fruit. It thrives in warm, dry conditions with high humidity.",
-        "symptoms": [
-            "White powdery coating on leaf surfaces",
-            "Curling and distortion of young leaves",
-            "Stunted new shoot growth",
-            "Russeting and blemishes on fruit surface",
-            "Premature leaf drop in severe infections"
-        ],
-        "causes": [
-            "Fungal spores spread by wind",
-            "Warm days and cool nights with high humidity",
-            "Overcrowded canopy with poor air circulation",
-            "Excessive nitrogen fertilization promoting succulent growth"
-        ],
-        "remedies": {
-            "chemical": [
-                "Apply myclobutanil at first sign of disease and repeat every 10-14 days",
-                "Use trifloxystrobin (Flint) fungicide during growing season",
-                "Spray propiconazole for active infections",
-                "Apply sulfur fungicide as preventive treatment in dry conditions"
-            ],
-            "organic": [
-                "Spray milk solution (40% milk to 60% water) weekly",
-                "Apply potassium bicarbonate (1 tablespoon per gallon of water)",
-                "Use neem oil spray every 7-14 days",
-                "Apply sulfur-based organic fungicides (avoid in temperatures above 85°F)",
-                "Spray diluted apple cider vinegar solution (3 tablespoons per gallon)"
-            ],
-            "cultural": [
-                "Prune to open canopy and improve air circulation",
-                "Avoid excessive nitrogen fertilization",
-                "Remove and destroy infected shoots and leaves",
-                "Water at base of tree to keep foliage dry",
-                "Plant in full sun locations with good air movement"
-            ],
-            "biological": [
-                "Apply Bacillus subtilis-based biofungicides",
-                "Use Streptomyces lydicus products as preventive treatment",
-                "Apply beneficial fungal antagonists like Ampelomyces quisqualis"
-            ]
-        },
-        "prevention_tips": [
-            "Maintain open canopy through proper pruning",
-            "Avoid overhead irrigation",
-            "Monitor humidity levels and apply fungicides preventively",
-            "Select powdery mildew resistant varieties when possible"
-        ],
-        "severity": "Moderate",
-        "spread_rate": "High"
+    "prevention_tips": [
+      "Ensure proper drainage - blueberries don't tolerate waterlogging",
+      "Avoid overhead irrigation to reduce disease risk",
+      "Plant in full sun for best fruit production",
+      "Space plants adequately for good air circulation",
+      "Remove and destroy any diseased plant material promptly"
+    ],
+    "severity": "None",
+    "spread_rate": "N/A"
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "disease_name": "Powdery Mildew",
+    "plant": "Cherry",
+    "scientific_name": "Podosphaera clandestina",
+    "type": "Fungal",
+    "is_healthy": false,
+    "description": "Powdery mildew on cherry trees appears as white, powdery fungal growth on leaves, shoots, and sometimes fruit. It thrives in warm, dry conditions with high humidity.",
+    "symptoms": [
+      "White powdery coating on leaf surfaces",
+      "Curling and distortion of young leaves",
+      "Stunted new shoot growth",
+      "Russeting and blemishes on fruit surface",
+      "Premature leaf drop in severe infections"
+    ],
+    "causes": [
+      "Fungal spores spread by wind",
+      "Warm days and cool nights with high humidity",
+      "Overcrowded canopy with poor air circulation",
+      "Excessive nitrogen fertilization promoting succulent growth"
+    ],
+    "remedies": {
+      "chemical": [
+        "Apply myclobutanil at first sign of disease and repeat every 10-14 days",
+        "Use trifloxystrobin (Flint) fungicide during growing season",
+        "Spray propiconazole for active infections",
+        "Apply sulfur fungicide as preventive treatment in dry conditions"
+      ],
+      "organic": [
+        "Spray milk solution (40% milk to 60% water) weekly",
+        "Apply potassium bicarbonate (1 tablespoon per gallon of water)",
+        "Use neem oil spray every 7-14 days",
+        "Apply sulfur-based organic fungicides (avoid in temperatures above 85\u00b0F)",
+        "Spray diluted apple cider vinegar solution (3 tablespoons per gallon)"
+      ],
+      "cultural": [
+        "Prune to open canopy and improve air circulation",
+        "Avoid excessive nitrogen fertilization",
+        "Remove and destroy infected shoots and leaves",
+        "Water at base of tree to keep foliage dry",
+        "Plant in full sun locations with good air movement"
+      ],
+      "biological": [
+        "Apply Bacillus subtilis-based biofungicides",
+        "Use Streptomyces lydicus products as preventive treatment",
+        "Apply beneficial fungal antagonists like Ampelomyces quisqualis"
+      ]
     },
-
-    "Cherry_(including_sour)___healthy": {
-        "disease_name": "Healthy",
-        "plant": "Cherry",
-        "scientific_name": null,
-        "type": "Healthy",
-        "is_healthy": true,
-        "description": "The cherry plant is healthy with no signs of disease. Leaves are green, properly shaped, and free from powdery coatings, spots, or discoloration.",
-        "symptoms": [],
-        "causes": [],
-        "remedies": {
-            "maintenance": [
-                "Water deeply once a week during dry periods",
-                "Apply balanced fertilizer in early spring",
-                "Prune during dormant season to maintain shape and airflow",
-                "Apply dormant spray in late winter for pest prevention",
-                "Mulch around base to retain moisture and suppress weeds",
-                "Monitor for signs of disease and pest activity regularly",
-                "Protect fruit from bird damage with netting",
-                "Ensure proper drainage to prevent root rot"
-            ]
-        },
-        "prevention_tips": [
-            "Maintain clean orchard floor",
-            "Ensure adequate spacing between trees",
-            "Follow regular pruning schedule",
-            "Apply preventive fungicide sprays during high-risk periods"
-        ],
-        "severity": "None",
-        "spread_rate": "N/A"
+    "prevention_tips": [
+      "Maintain open canopy through proper pruning",
+      "Avoid overhead irrigation",
+      "Monitor humidity levels and apply fungicides preventively",
+      "Select powdery mildew resistant varieties when possible"
+    ],
+    "severity": "Moderate",
+    "spread_rate": "High"
+  },
+  "Cherry_(including_sour)___healthy": {
+    "disease_name": "Healthy",
+    "plant": "Cherry",
+    "scientific_name": null,
+    "type": "Healthy",
+    "is_healthy": true,
+    "description": "The cherry plant is healthy with no signs of disease. Leaves are green, properly shaped, and free from powdery coatings, spots, or discoloration.",
+    "symptoms": [],
+    "causes": [],
+    "remedies": {
+      "maintenance": [
+        "Water deeply once a week during dry periods",
+        "Apply balanced fertilizer in early spring",
+        "Prune during dormant season to maintain shape and airflow",
+        "Apply dormant spray in late winter for pest prevention",
+        "Mulch around base to retain moisture and suppress weeds",
+        "Monitor for signs of disease and pest activity regularly",
+        "Protect fruit from bird damage with netting",
+        "Ensure proper drainage to prevent root rot"
+      ]
     },
-
-    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
-        "disease_name": "Cercospora Leaf Spot / Gray Leaf Spot",
-        "plant": "Corn (Maize)",
-        "scientific_name": "Cercospora zeae-maydis",
-        "type": "Fungal",
-        "is_healthy": false,
-        "description": "Gray leaf spot is one of the most significant yield-limiting diseases of corn worldwide. The fungus produces rectangular, grayish-tan lesions that run parallel to leaf veins.",
-        "symptoms": [
-            "Small, rectangular lesions running parallel to leaf veins",
-            "Lesions are grayish-tan to brown in color",
-            "Lesions may coalesce causing large areas of dead leaf tissue",
-            "Lower leaves are affected first, progressing upward",
-            "Severe cases cause premature death of leaves"
-        ],
-        "causes": [
-            "Fungus survives in infected corn residue on soil surface",
-            "Continuous corn cropping increases disease pressure",
-            "Warm temperatures (75-85°F) with high humidity and prolonged dew",
-            "No-till or minimum tillage preserves infected residue"
-        ],
-        "remedies": {
-            "chemical": [
-                "Apply strobilurin fungicides (azoxystrobin, pyraclostrobin) at VT-R1 stage",
-                "Use triazole fungicides (propiconazole) for active infections",
-                "Apply combination products (azoxystrobin + propiconazole) for broader protection",
-                "Time fungicide applications based on disease forecasting models"
-            ],
-            "organic": [
-                "Apply copper-based fungicides for organic production",
-                "Use neem oil spray as mild fungicide",
-                "Apply compost tea to boost plant immune response",
-                "Use biofungicides containing Bacillus species"
-            ],
-            "cultural": [
-                "Rotate crops - avoid continuous corn planting",
-                "Plant resistant or tolerant corn hybrids",
-                "Tillage to bury infected crop residue",
-                "Reduce plant population in fields with history of GLS",
-                "Ensure balanced fertility especially adequate potassium",
-                "Avoid late planting which increases disease risk"
-            ],
-            "biological": [
-                "Apply Trichoderma-based products to break down crop residue",
-                "Use Bacillus subtilis foliar applications"
-            ]
-        },
-        "prevention_tips": [
-            "Select resistant hybrids for areas with GLS history",
-            "Practice crop rotation with non-host crops",
-            "Scout fields regularly starting at V8 growth stage",
-            "Consider tillage to reduce surface residue inoculum"
-        ],
-        "severity": "High",
-        "spread_rate": "Moderate"
+    "prevention_tips": [
+      "Maintain clean orchard floor",
+      "Ensure adequate spacing between trees",
+      "Follow regular pruning schedule",
+      "Apply preventive fungicide sprays during high-risk periods"
+    ],
+    "severity": "None",
+    "spread_rate": "N/A"
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "disease_name": "Cercospora Leaf Spot / Gray Leaf Spot",
+    "plant": "Corn (Maize)",
+    "scientific_name": "Cercospora zeae-maydis",
+    "type": "Fungal",
+    "is_healthy": false,
+    "description": "Gray leaf spot is one of the most significant yield-limiting diseases of corn worldwide. The fungus produces rectangular, grayish-tan lesions that run parallel to leaf veins.",
+    "symptoms": [
+      "Small, rectangular lesions running parallel to leaf veins",
+      "Lesions are grayish-tan to brown in color",
+      "Lesions may coalesce causing large areas of dead leaf tissue",
+      "Lower leaves are affected first, progressing upward",
+      "Severe cases cause premature death of leaves"
+    ],
+    "causes": [
+      "Fungus survives in infected corn residue on soil surface",
+      "Continuous corn cropping increases disease pressure",
+      "Warm temperatures (75-85\u00b0F) with high humidity and prolonged dew",
+      "No-till or minimum tillage preserves infected residue"
+    ],
+    "remedies": {
+      "chemical": [
+        "Apply strobilurin fungicides (azoxystrobin, pyraclostrobin) at VT-R1 stage",
+        "Use triazole fungicides (propiconazole) for active infections",
+        "Apply combination products (azoxystrobin + propiconazole) for broader protection",
+        "Time fungicide applications based on disease forecasting models"
+      ],
+      "organic": [
+        "Apply copper-based fungicides for organic production",
+        "Use neem oil spray as mild fungicide",
+        "Apply compost tea to boost plant immune response",
+        "Use biofungicides containing Bacillus species"
+      ],
+      "cultural": [
+        "Rotate crops - avoid continuous corn planting",
+        "Plant resistant or tolerant corn hybrids",
+        "Tillage to bury infected crop residue",
+        "Reduce plant population in fields with history of GLS",
+        "Ensure balanced fertility especially adequate potassium",
+        "Avoid late planting which increases disease risk"
+      ],
+      "biological": [
+        "Apply Trichoderma-based products to break down crop residue",
+        "Use Bacillus subtilis foliar applications"
+      ]
     },
-
-    "Corn_(maize)___Common_rust_": {
-        "disease_name": "Common Rust",
-        "plant": "Corn (Maize)",
-        "scientific_name": "Puccinia sorghi",
-        "type": "Fungal",
-        "is_healthy": false,
-        "description": "Common rust of corn is caused by the fungus Puccinia sorghi. It produces small, circular to elongated pustules on both leaf surfaces that are cinnamon-brown to dark reddish-brown in color.",
-        "symptoms": [
-            "Small, circular to elongated cinnamon-brown pustules on leaves",
-            "Pustules appear on both upper and lower leaf surfaces",
-            "Pustules break through the leaf epidermis releasing powdery spores",
-            "Chlorotic halos may surround pustules",
-            "Severe infections cause premature leaf death"
-        ],
-        "causes": [
-            "Spores are wind-blown from southern regions in spring",
-            "Cool to moderate temperatures (60-77°F) with high humidity",
-            "Heavy dew and frequent rainfall promote infection",
-            "Susceptible hybrids planted in favorable conditions"
-        ],
-        "remedies": {
-            "chemical": [
-                "Apply triazole fungicides (propiconazole, tebuconazole) at first sign",
-                "Use strobilurin fungicides (azoxystrobin) for preventive control",
-                "Apply mancozeb as protective fungicide before infection",
-                "Combination fungicides provide broader spectrum control"
-            ],
-            "organic": [
-                "Apply sulfur-based fungicides for organic production",
-                "Use neem oil spray every 7-10 days",
-                "Apply copper-based organic fungicides",
-                "Spray baking soda solution (1 tablespoon per gallon with soap)"
-            ],
-            "cultural": [
-                "Plant rust-resistant corn hybrids",
-                "Plant early to avoid peak rust infection period",
-                "Ensure adequate plant nutrition and potassium levels",
-                "Remove volunteer corn plants that can harbor the fungus",
-                "Maintain proper plant spacing"
-            ],
-            "biological": [
-                "Apply Bacillus-based biofungicides",
-                "Use beneficial microbial products to boost plant resistance"
-            ]
-        },
-        "prevention_tips": [
-            "Select resistant hybrids with Rp genes",
-            "Monitor fields regularly during warm, humid conditions",
-            "Consider fungicide application if pustules appear before tasseling",
-            "Early planting reduces exposure to late-season spore loads"
-        ],
-        "severity": "Moderate",
-        "spread_rate": "High"
+    "prevention_tips": [
+      "Select resistant hybrids for areas with GLS history",
+      "Practice crop rotation with non-host crops",
+      "Scout fields regularly starting at V8 growth stage",
+      "Consider tillage to reduce surface residue inoculum"
+    ],
+    "severity": "High",
+    "spread_rate": "Moderate"
+  },
+  "Corn_(maize)___Common_rust_": {
+    "disease_name": "Common Rust",
+    "plant": "Corn (Maize)",
+    "scientific_name": "Puccinia sorghi",
+    "type": "Fungal",
+    "is_healthy": false,
+    "description": "Common rust of corn is caused by the fungus Puccinia sorghi. It produces small, circular to elongated pustules on both leaf surfaces that are cinnamon-brown to dark reddish-brown in color.",
+    "symptoms": [
+      "Small, circular to elongated cinnamon-brown pustules on leaves",
+      "Pustules appear on both upper and lower leaf surfaces",
+      "Pustules break through the leaf epidermis releasing powdery spores",
+      "Chlorotic halos may surround pustules",
+      "Severe infections cause premature leaf death"
+    ],
+    "causes": [
+      "Spores are wind-blown from southern regions in spring",
+      "Cool to moderate temperatures (60-77\u00b0F) with high humidity",
+      "Heavy dew and frequent rainfall promote infection",
+      "Susceptible hybrids planted in favorable conditions"
+    ],
+    "remedies": {
+      "chemical": [
+        "Apply triazole fungicides (propiconazole, tebuconazole) at first sign",
+        "Use strobilurin fungicides (azoxystrobin) for preventive control",
+        "Apply mancozeb as protective fungicide before infection",
+        "Combination fungicides provide broader spectrum control"
+      ],
+      "organic": [
+        "Apply sulfur-based fungicides for organic production",
+        "Use neem oil spray every 7-10 days",
+        "Apply copper-based organic fungicides",
+        "Spray baking soda solution (1 tablespoon per gallon with soap)"
+      ],
+      "cultural": [
+        "Plant rust-resistant corn hybrids",
+        "Plant early to avoid peak rust infection period",
+        "Ensure adequate plant nutrition and potassium levels",
+        "Remove volunteer corn plants that can harbor the fungus",
+        "Maintain proper plant spacing"
+      ],
+      "biological": [
+        "Apply Bacillus-based biofungicides",
+        "Use beneficial microbial products to boost plant resistance"
+      ]
     },
-
-    "Corn_(maize)___Northern_Leaf_Blight": {
-        "disease_name": "Northern Leaf Blight",
-        "plant": "Corn (Maize)",
-        "scientific_name": "Exserohilum turcicum",
-        "type": "Fungal",
-        "is_healthy": false,
-        "description": "Northern corn leaf blight (NCLB) is a foliar disease that produces large, cigar-shaped grayish-green to tan lesions on corn leaves. Severe infections can significantly reduce yields.",
-        "symptoms": [
-            "Large, cigar-shaped lesions 1-6 inches long on leaves",
-            "Lesions are grayish-green to tan colored",
-            "Lesions start on lower leaves and progress upward",
-            "Dark gray spores visible on lesion surface during humid conditions",
-            "Severe cases cause entire leaves to die"
-        ],
-        "causes": [
-            "Fungus overwinters in infected corn debris on soil surface",
-            "Moderate temperatures (65-80°F) with heavy dews and frequent rains",
-            "Continuous corn with no-till practices increase inoculum",
-            "Susceptible hybrids in favorable weather conditions"
-        ],
-        "remedies": {
-            "chemical": [
-                "Apply strobilurin fungicides at VT-R1 growth stage for best results",
-                "Use triazole fungicides (propiconazole) for active infections",
-                "Apply combination fungicides (triazole + strobilurin) for extended control",
-                "Timing is critical - apply before disease reaches ear leaf"
-            ],
-            "organic": [
-                "Apply copper hydroxide-based fungicides",
-                "Use neem oil as a mild organic fungicide",
-                "Spray compost tea to enhance plant resistance",
-                "Apply potassium bicarbonate solution"
-            ],
-            "cultural": [
-                "Plant resistant hybrids with Ht genes",
-                "Practice crop rotation with soybeans or other non-host crops",
-                "Tillage to incorporate infected residue and reduce inoculum",
-                "Ensure balanced soil fertility",
-                "Avoid late planting of susceptible hybrids",
-                "Maintain adequate plant populations"
-            ],
-            "biological": [
-                "Apply Trichoderma products to accelerate residue decomposition",
-                "Use Bacillus subtilis-based biofungicides"
-            ]
-        },
-        "prevention_tips": [
-            "Select hybrids with both qualitative and quantitative NCLB resistance",
-            "Rotate with non-host crops to reduce residue-borne inoculum",
-            "Scout fields from V8 through grain fill",
-            "Apply fungicides when lesions appear on third leaf below ear or higher"
-        ],
-        "severity": "High",
-        "spread_rate": "Moderate to High"
+    "prevention_tips": [
+      "Select resistant hybrids with Rp genes",
+      "Monitor fields regularly during warm, humid conditions",
+      "Consider fungicide application if pustules appear before tasseling",
+      "Early planting reduces exposure to late-season spore loads"
+    ],
+    "severity": "Moderate",
+    "spread_rate": "High"
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "disease_name": "Northern Leaf Blight",
+    "plant": "Corn (Maize)",
+    "scientific_name": "Exserohilum turcicum",
+    "type": "Fungal",
+    "is_healthy": false,
+    "description": "Northern corn leaf blight (NCLB) is a foliar disease that produces large, cigar-shaped grayish-green to tan lesions on corn leaves. Severe infections can significantly reduce yields.",
+    "symptoms": [
+      "Large, cigar-shaped lesions 1-6 inches long on leaves",
+      "Lesions are grayish-green to tan colored",
+      "Lesions start on lower leaves and progress upward",
+      "Dark gray spores visible on lesion surface during humid conditions",
+      "Severe cases cause entire leaves to die"
+    ],
+    "causes": [
+      "Fungus overwinters in infected corn debris on soil surface",
+      "Moderate temperatures (65-80\u00b0F) with heavy dews and frequent rains",
+      "Continuous corn with no-till practices increase inoculum",
+      "Susceptible hybrids in favorable weather conditions"
+    ],
+    "remedies": {
+      "chemical": [
+        "Apply strobilurin fungicides at VT-R1 growth stage for best results",
+        "Use triazole fungicides (propiconazole) for active infections",
+        "Apply combination fungicides (triazole + strobilurin) for extended control",
+        "Timing is critical - apply before disease reaches ear leaf"
+      ],
+      "organic": [
+        "Apply copper hydroxide-based fungicides",
+        "Use neem oil as a mild organic fungicide",
+        "Spray compost tea to enhance plant resistance",
+        "Apply potassium bicarbonate solution"
+      ],
+      "cultural": [
+        "Plant resistant hybrids with Ht genes",
+        "Practice crop rotation with soybeans or other non-host crops",
+        "Tillage to incorporate infected residue and reduce inoculum",
+        "Ensure balanced soil fertility",
+        "Avoid late planting of susceptible hybrids",
+        "Maintain adequate plant populations"
+      ],
+      "biological": [
+        "Apply Trichoderma products to accelerate residue decomposition",
+        "Use Bacillus subtilis-based biofungicides"
+      ]
     },
-
-    "Corn_(maize)___healthy": {
-        "disease_name": "Healthy",
-        "plant": "Corn (Maize)",
-        "scientific_name": null,
-        "type": "Healthy",
-        "is_healthy": true,
-        "description": "The corn plant is healthy with no visible signs of disease. Leaves are green, uniform, and free from lesions, spots, or abnormal discoloration.",
-        "symptoms": [],
-        "causes": [],
-        "remedies": {
-            "maintenance": [
-                "Ensure consistent moisture - corn needs 1 inch of water per week",
-                "Apply nitrogen fertilizer in split applications for optimal uptake",
-                "Maintain soil pH between 6.0-6.8 for best nutrient availability",
-                "Scout fields regularly for early detection of pests and diseases",
-                "Control weeds through cultivation or approved herbicides",
-                "Ensure adequate potassium and phosphorus levels",
-                "Monitor for insect pests like corn borers and rootworms",
-                "Practice crop rotation to maintain soil health"
-            ]
-        },
-        "prevention_tips": [
-            "Rotate crops annually to break disease cycles",
-            "Select disease-resistant hybrids suited for your region",
-            "Maintain balanced soil nutrition through soil testing",
-            "Control insect pests that can vector diseases"
-        ],
-        "severity": "None",
-        "spread_rate": "N/A"
+    "prevention_tips": [
+      "Select hybrids with both qualitative and quantitative NCLB resistance",
+      "Rotate with non-host crops to reduce residue-borne inoculum",
+      "Scout fields from V8 through grain fill",
+      "Apply fungicides when lesions appear on third leaf below ear or higher"
+    ],
+    "severity": "High",
+    "spread_rate": "Moderate to High"
+  },
+  "Corn_(maize)___healthy": {
+    "disease_name": "Healthy",
+    "plant": "Corn (Maize)",
+    "scientific_name": null,
+    "type": "Healthy",
+    "is_healthy": true,
+    "description": "The corn plant is healthy with no visible signs of disease. Leaves are green, uniform, and free from lesions, spots, or abnormal discoloration.",
+    "symptoms": [],
+    "causes": [],
+    "remedies": {
+      "maintenance": [
+        "Ensure consistent moisture - corn needs 1 inch of water per week",
+        "Apply nitrogen fertilizer in split applications for optimal uptake",
+        "Maintain soil pH between 6.0-6.8 for best nutrient availability",
+        "Scout fields regularly for early detection of pests and diseases",
+        "Control weeds through cultivation or approved herbicides",
+        "Ensure adequate potassium and phosphorus levels",
+        "Monitor for insect pests like corn borers and rootworms",
+        "Practice crop rotation to maintain soil health"
+      ]
     },
-
-    "Grape___Black_rot": {
-        "disease_name": "Black Rot",
-        "plant": "Grape",
-        "scientific_name": "Guignardia bidwellii",
-        "type": "Fungal",
-        "is_healthy": false,
-        "description": "Black rot is a serious fungal disease of grapes that can destroy up to 80% of the crop. It affects leaves, shoots, and especially fruit, causing hard, black, mummified berries.",
-        "symptoms": [
-            "Circular reddish-brown leaf spots with dark borders",
-            "Tiny black pycnidia (fruiting bodies) within leaf spots",
-            "Fruit develops light brown soft rot that progresses rapidly",
-            "Infected berries shrivel into hard, black mummified fruit",
-            "Dark, elongated cankers on shoots and tendrils"
-        ],
-        "causes": [
-            "Fungus overwinters in mummified berries and infected canes",
-            "Warm, wet weather in spring triggers spore release",
-            "Rain splash disperses spores to healthy tissue",
-            "Young, rapidly growing tissues are most susceptible"
-        ],
-        "remedies": {
-            "chemical": [
-                "Apply myclobutanil (Rally) starting at 6-inch shoot growth through 4 weeks after bloom",
-                "Use mancozeb as protective fungicide before infection periods",
-                "Apply captan plus myclobutanil for enhanced protection",
-                "Spray tebuconazole for active infections during fruit development"
-            ],
-            "organic": [
-                "Apply copper-based fungicides (Bordeaux mixture) before bloom",
-                "Use sulfur sprays during growing season (avoid in hot weather)",
-                "Apply neem oil as supplemental treatment",
-                "Use potassium bicarbonate spray for mild infections"
-            ],
-            "cultural": [
-                "Remove and destroy all mummified berries and infected canes",
-                "Prune vines to improve air circulation and sunlight penetration",
-                "Remove wild grapes near vineyard that serve as inoculum source",
-                "Train vines for good exposure and quick drying after rain",
-                "Cultivate under vines to bury mummified fruit",
-                "Harvest promptly and remove all crop residue"
-            ],
-            "biological": [
-                "Apply Bacillus subtilis-based biofungicides before bloom",
-                "Use Trichoderma products to break down infected debris"
-            ]
-        },
-        "prevention_tips": [
-            "Sanitation is the most important control measure",
-            "Remove ALL mummified fruit in winter",
-            "Begin fungicide program at early shoot growth",
-            "Most critical spray period is bloom through 4 weeks after bloom"
-        ],
-        "severity": "Very High",
-        "spread_rate": "High"
+    "prevention_tips": [
+      "Rotate crops annually to break disease cycles",
+      "Select disease-resistant hybrids suited for your region",
+      "Maintain balanced soil nutrition through soil testing",
+      "Control insect pests that can vector diseases"
+    ],
+    "severity": "None",
+    "spread_rate": "N/A"
+  },
+  "Grape___Black_rot": {
+    "disease_name": "Black Rot",
+    "plant": "Grape",
+    "scientific_name": "Guignardia bidwellii",
+    "type": "Fungal",
+    "is_healthy": false,
+    "description": "Black rot is a serious fungal disease of grapes that can destroy up to 80% of the crop. It affects leaves, shoots, and especially fruit, causing hard, black, mummified berries.",
+    "symptoms": [
+      "Circular reddish-brown leaf spots with dark borders",
+      "Tiny black pycnidia (fruiting bodies) within leaf spots",
+      "Fruit develops light brown soft rot that progresses rapidly",
+      "Infected berries shrivel into hard, black mummified fruit",
+      "Dark, elongated cankers on shoots and tendrils"
+    ],
+    "causes": [
+      "Fungus overwinters in mummified berries and infected canes",
+      "Warm, wet weather in spring triggers spore release",
+      "Rain splash disperses spores to healthy tissue",
+      "Young, rapidly growing tissues are most susceptible"
+    ],
+    "remedies": {
+      "chemical": [
+        "Apply myclobutanil (Rally) starting at 6-inch shoot growth through 4 weeks after bloom",
+        "Use mancozeb as protective fungicide before infection periods",
+        "Apply captan plus myclobutanil for enhanced protection",
+        "Spray tebuconazole for active infections during fruit development"
+      ],
+      "organic": [
+        "Apply copper-based fungicides (Bordeaux mixture) before bloom",
+        "Use sulfur sprays during growing season (avoid in hot weather)",
+        "Apply neem oil as supplemental treatment",
+        "Use potassium bicarbonate spray for mild infections"
+      ],
+      "cultural": [
+        "Remove and destroy all mummified berries and infected canes",
+        "Prune vines to improve air circulation and sunlight penetration",
+        "Remove wild grapes near vineyard that serve as inoculum source",
+        "Train vines for good exposure and quick drying after rain",
+        "Cultivate under vines to bury mummified fruit",
+        "Harvest promptly and remove all crop residue"
+      ],
+      "biological": [
+        "Apply Bacillus subtilis-based biofungicides before bloom",
+        "Use Trichoderma products to break down infected debris"
+      ]
     },
-
-    "Grape___Esca_(Black_Measles)": {
-        "disease_name": "Esca (Black Measles)",
-        "plant": "Grape",
-        "scientific_name": "Multiple fungi (Phaeomoniella chlamydospora, Phaeoacremonium spp., Fomitiporia spp.)",
-        "type": "Fungal Complex",
-        "is_healthy": false,
-        "description": "Esca is a complex grapevine trunk disease caused by multiple fungal species. It causes a distinctive tiger-stripe pattern on leaves and dark spots on berries. It can lead to sudden vine death.",
-        "symptoms": [
-            "Tiger-stripe pattern on leaves - interveinal chlorosis with necrotic margins",
-            "Dark spots or measles-like markings on fruit",
-            "Cross-section of trunk shows dark, discolored wood",
-            "Sudden wilting and death of entire vine (apoplexy) in summer",
-            "White, soft, spongy wood rot in trunk interior"
-        ],
-        "causes": [
-            "Complex of fungal pathogens entering through pruning wounds",
-            "Fungi colonize the woody tissue over several years",
-            "Hot, dry weather can trigger sudden apoplexy symptoms",
-            "Stressed vines are more susceptible"
-        ],
-        "remedies": {
-            "chemical": [
-                "No fully effective chemical treatment exists currently",
-                "Apply thiophanate-methyl to pruning wounds immediately after pruning",
-                "Sodium arsenite was historically used but is now banned in most countries",
-                "Apply triazole fungicides as wound protectants after pruning",
-                "Trunk injection with fungicides is being researched"
-            ],
-            "organic": [
-                "Apply paste of Trichoderma spores to pruning wounds",
-                "Use garlic extract spray as mild fungicide",
-                "Apply bioprotectant products to pruning wounds"
-            ],
-            "cultural": [
-                "Prune during dry weather to minimize wound infection",
-                "Make clean pruning cuts and protect large wounds with pruning paint",
-                "Delay pruning until late in dormant season when wounds heal faster",
-                "Remove severely infected vines and replace with new plants",
-                "Double pruning technique - rough cut early, final cut late",
-                "Avoid large pruning wounds - use spur pruning where possible",
-                "Maintain vine vigor through proper irrigation and nutrition"
-            ],
-            "biological": [
-                "Apply Trichoderma atroviride to pruning wounds within 24 hours",
-                "Use Trichoderma-based biofungicides as preventive treatment",
-                "Apply beneficial bacteria to wounds to compete with pathogens"
-            ]
-        },
-        "prevention_tips": [
-            "Protect all pruning wounds with wound sealant or Trichoderma",
-            "Prune in dry conditions and late in the dormant season",
-            "Ensure clean pruning tools - disinfect between vines",
-            "This is a slow-developing disease - prevention is key",
-            "Remove and burn severely affected vines to reduce inoculum"
-        ],
-        "severity": "Very High",
-        "spread_rate": "Slow (years to develop)"
+    "prevention_tips": [
+      "Sanitation is the most important control measure",
+      "Remove ALL mummified fruit in winter",
+      "Begin fungicide program at early shoot growth",
+      "Most critical spray period is bloom through 4 weeks after bloom"
+    ],
+    "severity": "Very High",
+    "spread_rate": "High"
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "disease_name": "Esca (Black Measles)",
+    "plant": "Grape",
+    "scientific_name": "Multiple fungi (Phaeomoniella chlamydospora, Phaeoacremonium spp., Fomitiporia spp.)",
+    "type": "Fungal Complex",
+    "is_healthy": false,
+    "description": "Esca is a complex grapevine trunk disease caused by multiple fungal species. It causes a distinctive tiger-stripe pattern on leaves and dark spots on berries. It can lead to sudden vine death.",
+    "symptoms": [
+      "Tiger-stripe pattern on leaves - interveinal chlorosis with necrotic margins",
+      "Dark spots or measles-like markings on fruit",
+      "Cross-section of trunk shows dark, discolored wood",
+      "Sudden wilting and death of entire vine (apoplexy) in summer",
+      "White, soft, spongy wood rot in trunk interior"
+    ],
+    "causes": [
+      "Complex of fungal pathogens entering through pruning wounds",
+      "Fungi colonize the woody tissue over several years",
+      "Hot, dry weather can trigger sudden apoplexy symptoms",
+      "Stressed vines are more susceptible"
+    ],
+    "remedies": {
+      "chemical": [
+        "No fully effective chemical treatment exists currently",
+        "Apply thiophanate-methyl to pruning wounds immediately after pruning",
+        "Sodium arsenite was historically used but is now banned in most countries",
+        "Apply triazole fungicides as wound protectants after pruning",
+        "Trunk injection with fungicides is being researched"
+      ],
+      "organic": [
+        "Apply paste of Trichoderma spores to pruning wounds",
+        "Use garlic extract spray as mild fungicide",
+        "Apply bioprotectant products to pruning wounds"
+      ],
+      "cultural": [
+        "Prune during dry weather to minimize wound infection",
+        "Make clean pruning cuts and protect large wounds with pruning paint",
+        "Delay pruning until late in dormant season when wounds heal faster",
+        "Remove severely infected vines and replace with new plants",
+        "Double pruning technique - rough cut early, final cut late",
+        "Avoid large pruning wounds - use spur pruning where possible",
+        "Maintain vine vigor through proper irrigation and nutrition"
+      ],
+      "biological": [
+        "Apply Trichoderma atroviride to pruning wounds within 24 hours",
+        "Use Trichoderma-based biofungicides as preventive treatment",
+        "Apply beneficial bacteria to wounds to compete with pathogens"
+      ]
     },
-
-    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
-        "disease_name": "Leaf Blight (Isariopsis Leaf Spot)",
-        "plant": "Grape",
-        "scientific_name": "Pseudocercospora vitis (syn. Isariopsis clavispora)",
-        "type": "Fungal",
-        "is_healthy": false,
-        "description": "Isariopsis leaf spot causes angular, dark brown lesions on grape leaves, primarily affecting lower and older leaves. In severe cases, it leads to defoliation and reduced vine vigor.",
-        "symptoms": [
-            "Small angular dark brown spots on lower leaves",
-            "Lesions may have yellow halos",
-            "Dark fungal growth visible on underside of leaves in humid conditions",
-            "Premature leaf drop starting from lower canopy",
-            "Reduced vine vigor and fruit quality"
-        ],
-        "causes": [
-            "Fungus survives on infected fallen leaves and debris",
-            "Warm, humid conditions with frequent rainfall promote disease",
-            "Poor air circulation in dense canopy",
-            "Overhead irrigation increases leaf wetness duration"
-        ],
-        "remedies": {
-            "chemical": [
-                "Apply mancozeb fungicide as preventive spray every 10-14 days",
-                "Use copper oxychloride sprays during growing season",
-                "Apply carbendazim for systemic control of active infections",
-                "Spray chlorothalonil as protective fungicide"
-            ],
-            "organic": [
-                "Apply Bordeaux mixture (copper sulfate + lime) as preventive spray",
-                "Use neem oil spray every 7-10 days",
-                "Apply sulfur-based fungicides in dry weather",
-                "Spray baking soda solution as mild fungicide"
-            ],
-            "cultural": [
-                "Prune vines to improve air circulation and reduce humidity",
-                "Remove and destroy infected fallen leaves",
-                "Train vines vertically for better light penetration",
-                "Avoid overhead irrigation - use drip irrigation instead",
-                "Ensure proper vine spacing for adequate airflow",
-                "Apply balanced fertilization avoiding excess nitrogen"
-            ],
-            "biological": [
-                "Apply Bacillus subtilis-based biofungicides",
-                "Use Trichoderma harzianum as soil drench and foliar spray"
-            ]
-        },
-        "prevention_tips": [
-            "Start preventive fungicide sprays before symptoms appear",
-            "Maintain open canopy through regular pruning",
-            "Remove all fallen leaves and debris in autumn",
-            "Monitor lower canopy for early signs of disease"
-        ],
-        "severity": "Moderate",
-        "spread_rate": "Moderate"
+    "prevention_tips": [
+      "Protect all pruning wounds with wound sealant or Trichoderma",
+      "Prune in dry conditions and late in the dormant season",
+      "Ensure clean pruning tools - disinfect between vines",
+      "This is a slow-developing disease - prevention is key",
+      "Remove and burn severely affected vines to reduce inoculum"
+    ],
+    "severity": "Very High",
+    "spread_rate": "Slow (years to develop)"
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "disease_name": "Leaf Blight (Isariopsis Leaf Spot)",
+    "plant": "Grape",
+    "scientific_name": "Pseudocercospora vitis (syn. Isariopsis clavispora)",
+    "type": "Fungal",
+    "is_healthy": false,
+    "description": "Isariopsis leaf spot causes angular, dark brown lesions on grape leaves, primarily affecting lower and older leaves. In severe cases, it leads to defoliation and reduced vine vigor.",
+    "symptoms": [
+      "Small angular dark brown spots on lower leaves",
+      "Lesions may have yellow halos",
+      "Dark fungal growth visible on underside of leaves in humid conditions",
+      "Premature leaf drop starting from lower canopy",
+      "Reduced vine vigor and fruit quality"
+    ],
+    "causes": [
+      "Fungus survives on infected fallen leaves and debris",
+      "Warm, humid conditions with frequent rainfall promote disease",
+      "Poor air circulation in dense canopy",
+      "Overhead irrigation increases leaf wetness duration"
+    ],
+    "remedies": {
+      "chemical": [
+        "Apply mancozeb fungicide as preventive spray every 10-14 days",
+        "Use copper oxychloride sprays during growing season",
+        "Apply carbendazim for systemic control of active infections",
+        "Spray chlorothalonil as protective fungicide"
+      ],
+      "organic": [
+        "Apply Bordeaux mixture (copper sulfate + lime) as preventive spray",
+        "Use neem oil spray every 7-10 days",
+        "Apply sulfur-based fungicides in dry weather",
+        "Spray baking soda solution as mild fungicide"
+      ],
+      "cultural": [
+        "Prune vines to improve air circulation and reduce humidity",
+        "Remove and destroy infected fallen leaves",
+        "Train vines vertically for better light penetration",
+        "Avoid overhead irrigation - use drip irrigation instead",
+        "Ensure proper vine spacing for adequate airflow",
+        "Apply balanced fertilization avoiding excess nitrogen"
+      ],
+      "biological": [
+        "Apply Bacillus subtilis-based biofungicides",
+        "Use Trichoderma harzianum as soil drench and foliar spray"
+      ]
     },
-
-    "Grape___healthy": {
-        "disease_name": "Healthy",
-        "plant": "Grape",
-        "scientific_name": null,
-        "type": "Healthy",
-        "is_healthy": true,
-        "description": "The grapevine is healthy with no visible disease symptoms. Leaves are green, well-formed, and free from spots, lesions, or discoloration.",
-        "symptoms": [],
-        "causes": [],
-        "remedies": {
-            "maintenance": [
-                "Prune annually during dormant season for optimal structure",
-                "Water deeply but infrequently - 1 inch per week during growing season",
-                "Apply balanced fertilizer in early spring based on soil test",
-                "Train vines to trellis system for best air circulation and sun exposure",
-                "Monitor regularly for pests (grape berry moth, Japanese beetles)",
-                "Apply dormant spray in late winter for pest and disease prevention",
-                "Harvest promptly at maturity for best quality",
-                "Clean up fallen fruit and leaves to reduce disease risk"
-            ]
-        },
-        "prevention_tips": [
-            "Maintain open canopy through proper pruning and training",
-            "Use drip irrigation instead of overhead watering",
-            "Apply preventive fungicide program in humid climates",
-            "Scout regularly for early disease detection"
-        ],
-        "severity": "None",
-        "spread_rate": "N/A"
+    "prevention_tips": [
+      "Start preventive fungicide sprays before symptoms appear",
+      "Maintain open canopy through regular pruning",
+      "Remove all fallen leaves and debris in autumn",
+      "Monitor lower canopy for early signs of disease"
+    ],
+    "severity": "Moderate",
+    "spread_rate": "Moderate"
+  },
+  "Grape___healthy": {
+    "disease_name": "Healthy",
+    "plant": "Grape",
+    "scientific_name": null,
+    "type": "Healthy",
+    "is_healthy": true,
+    "description": "The grapevine is healthy with no visible disease symptoms. Leaves are green, well-formed, and free from spots, lesions, or discoloration.",
+    "symptoms": [],
+    "causes": [],
+    "remedies": {
+      "maintenance": [
+        "Prune annually during dormant season for optimal structure",
+        "Water deeply but infrequently - 1 inch per week during growing season",
+        "Apply balanced fertilizer in early spring based on soil test",
+        "Train vines to trellis system for best air circulation and sun exposure",
+        "Monitor regularly for pests (grape berry moth, Japanese beetles)",
+        "Apply dormant spray in late winter for pest and disease prevention",
+        "Harvest promptly at maturity for best quality",
+        "Clean up fallen fruit and leaves to reduce disease risk"
+      ]
     },
-
-    "Orange___Haunglongbing_(Citrus_greening)": {
-        "disease_name": "Huanglongbing (Citrus Greening)",
-        "plant": "Orange (Citrus)",
-        "scientific_name": "Candidatus Liberibacter asiaticus",
-        "type": "Bacterial",
-        "is_healthy": false,
-        "description": "Huanglongbing (HLB), also known as citrus greening, is the most devastating disease of citrus worldwide. It is caused by a bacterium spread by the Asian citrus psyllid. There is no cure, and infected trees decline over several years.",
-        "symptoms": [
-            "Asymmetric blotchy mottling on leaves (not uniform yellowing)",
-            "Yellow shoots appearing on one section of the tree",
-            "Small, lopsided, and bitter-tasting fruit",
-            "Fruit remains green at stylar end even when ripe (color inversion)",
-            "Aborted seeds in fruit - dark and shriveled",
-            "Overall tree decline with twig dieback",
-            "Zinc and manganese deficiency-like symptoms"
-        ],
-        "causes": [
-            "Bacteria spread primarily by Asian citrus psyllid (Diaphorina citri)",
-            "Can also spread through grafting with infected budwood",
-            "Psyllids acquire bacteria from infected trees and transmit to healthy ones",
-            "Bacteria colonize phloem tissue disrupting nutrient transport"
-        ],
-        "remedies": {
-            "chemical": [
-                "Apply systemic insecticides (imidacloprid, thiamethoxam) to control psyllids",
-                "Spray foliar insecticides (fenpropathrin, carbaryl) for adult psyllids",
-                "Apply horticultural oil to suppress psyllid nymphs",
-                "Use trunk injection of oxytetracycline antibiotics (where permitted)",
-                "Apply micronutrient sprays (zinc, manganese) to manage deficiency symptoms"
-            ],
-            "organic": [
-                "Apply kaolin clay particle film to deter psyllid feeding",
-                "Use neem oil for psyllid suppression",
-                "Apply spinosad-based insecticides for psyllid control",
-                "Spray horticultural oils to smother psyllid eggs and nymphs"
-            ],
-            "cultural": [
-                "Remove and destroy confirmed HLB-infected trees immediately",
-                "Plant only certified disease-free nursery stock",
-                "Coordinate area-wide psyllid management with neighboring groves",
-                "Install insect-exclusion screenhouses for young tree production",
-                "Apply enhanced nutritional programs to extend productive life of mildly infected trees",
-                "Replace removed trees with HLB-tolerant rootstock/scion combinations",
-                "Use reflective mulch to deter psyllids from landing"
-            ],
-            "biological": [
-                "Release Tamarixia radiata parasitic wasp for biological control of psyllids",
-                "Encourage natural predators (ladybugs, lacewings) of psyllids",
-                "Apply entomopathogenic fungi (Hirsutella citriformis) against psyllids"
-            ]
-        },
-        "prevention_tips": [
-            "THERE IS NO CURE - prevention and psyllid control are essential",
-            "Use only certified disease-free planting material",
-            "Implement aggressive psyllid control program",
-            "Scout regularly and remove infected trees immediately",
-            "Coordinate with regional HLB management programs",
-            "This is a regulated disease - report suspected cases to authorities"
-        ],
-        "severity": "Critical",
-        "spread_rate": "High (via insect vector)"
+    "prevention_tips": [
+      "Maintain open canopy through proper pruning and training",
+      "Use drip irrigation instead of overhead watering",
+      "Apply preventive fungicide program in humid climates",
+      "Scout regularly for early disease detection"
+    ],
+    "severity": "None",
+    "spread_rate": "N/A"
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "disease_name": "Huanglongbing (Citrus Greening)",
+    "plant": "Orange (Citrus)",
+    "scientific_name": "Candidatus Liberibacter asiaticus",
+    "type": "Bacterial",
+    "is_healthy": false,
+    "description": "Huanglongbing (HLB), also known as citrus greening, is the most devastating disease of citrus worldwide. It is caused by a bacterium spread by the Asian citrus psyllid. There is no cure, and infected trees decline over several years.",
+    "symptoms": [
+      "Asymmetric blotchy mottling on leaves (not uniform yellowing)",
+      "Yellow shoots appearing on one section of the tree",
+      "Small, lopsided, and bitter-tasting fruit",
+      "Fruit remains green at stylar end even when ripe (color inversion)",
+      "Aborted seeds in fruit - dark and shriveled",
+      "Overall tree decline with twig dieback",
+      "Zinc and manganese deficiency-like symptoms"
+    ],
+    "causes": [
+      "Bacteria spread primarily by Asian citrus psyllid (Diaphorina citri)",
+      "Can also spread through grafting with infected budwood",
+      "Psyllids acquire bacteria from infected trees and transmit to healthy ones",
+      "Bacteria colonize phloem tissue disrupting nutrient transport"
+    ],
+    "remedies": {
+      "chemical": [
+        "Apply systemic insecticides (imidacloprid, thiamethoxam) to control psyllids",
+        "Spray foliar insecticides (fenpropathrin, carbaryl) for adult psyllids",
+        "Apply horticultural oil to suppress psyllid nymphs",
+        "Use trunk injection of oxytetracycline antibiotics (where permitted)",
+        "Apply micronutrient sprays (zinc, manganese) to manage deficiency symptoms"
+      ],
+      "organic": [
+        "Apply kaolin clay particle film to deter psyllid feeding",
+        "Use neem oil for psyllid suppression",
+        "Apply spinosad-based insecticides for psyllid control",
+        "Spray horticultural oils to smother psyllid eggs and nymphs"
+      ],
+      "cultural": [
+        "Remove and destroy confirmed HLB-infected trees immediately",
+        "Plant only certified disease-free nursery stock",
+        "Coordinate area-wide psyllid management with neighboring groves",
+        "Install insect-exclusion screenhouses for young tree production",
+        "Apply enhanced nutritional programs to extend productive life of mildly infected trees",
+        "Replace removed trees with HLB-tolerant rootstock/scion combinations",
+        "Use reflective mulch to deter psyllids from landing"
+      ],
+      "biological": [
+        "Release Tamarixia radiata parasitic wasp for biological control of psyllids",
+        "Encourage natural predators (ladybugs, lacewings) of psyllids",
+        "Apply entomopathogenic fungi (Hirsutella citriformis) against psyllids"
+      ]
     },
-
-    "Peach___Bacterial_spot": {
-        "disease_name": "Bacterial Spot",
-        "plant": "Peach",
-        "scientific_name": "Xanthomonas arboricola pv. pruni",
-        "type": "Bacterial",
-        "is_healthy": false,
-        "description": "Bacterial spot is a major disease of peach and other stone fruits. It causes leaf spots, fruit spots, and twig cankers, and is particularly difficult to manage in warm, wet climates.",
-        "symptoms": [
-            "Small, angular, dark water-soaked spots on leaves",
-            "Leaf spots turn purple-brown, centers may fall out creating shot-hole appearance",
-            "Severe defoliation in susceptible varieties",
-            "Dark, sunken, pitted spots on fruit surface",
-            "Fruit cracks at lesion sites allowing secondary infections",
-            "Small cankers on current-season twigs"
-        ],
-        "causes": [
-            "Bacteria survive in twig cankers and spread by rain splash",
-            "Warm temperatures (75-86°F) with wind-driven rain favor infection",
-            "Sandy soils and nutritional stress increase susceptibility",
-            "Bacteria enter through stomata and wounds"
-        ],
-        "remedies": {
-            "chemical": [
-                "Apply copper hydroxide sprays at leaf fall and before bud break",
-                "Use oxytetracycline (Mycoshield) during growing season",
-                "Apply copper + mancozeb tank mix for enhanced efficacy",
-                "Avoid copper after shuck split to prevent fruit russeting"
-            ],
-            "organic": [
-                "Apply fixed copper fungicides during dormant season",
-                "Use copper sulfate (Bordeaux mixture) at leaf fall",
-                "Apply Bacillus subtilis-based products during growing season",
-                "Spray copper at reduced rates to minimize phytotoxicity"
-            ],
-            "cultural": [
-                "Plant resistant varieties (Contender, Harrow Beauty, Redhaven)",
-                "Avoid planting in low-lying areas with poor air circulation",
-                "Ensure adequate nutrition especially nitrogen and zinc",
-                "Prune to open canopy for faster drying of foliage",
-                "Use windbreaks to reduce wind-driven rain spread",
-                "Remove severely infected trees that serve as inoculum source"
-            ],
-            "biological": [
-                "Apply Bacillus subtilis products as part of spray program",
-                "Use bacteriophage-based products where available"
-            ]
-        },
-        "prevention_tips": [
-            "Variety selection is the most effective management tool",
-            "Begin copper sprays at leaf fall to reduce overwintering inoculum",
-            "Maintain adequate tree nutrition especially on sandy soils",
-            "This is a very difficult disease to control - integrated approach is essential"
-        ],
-        "severity": "High",
-        "spread_rate": "High in wet weather"
+    "prevention_tips": [
+      "THERE IS NO CURE - prevention and psyllid control are essential",
+      "Use only certified disease-free planting material",
+      "Implement aggressive psyllid control program",
+      "Scout regularly and remove infected trees immediately",
+      "Coordinate with regional HLB management programs",
+      "This is a regulated disease - report suspected cases to authorities"
+    ],
+    "severity": "Critical",
+    "spread_rate": "High (via insect vector)"
+  },
+  "Peach___Bacterial_spot": {
+    "disease_name": "Bacterial Spot",
+    "plant": "Peach",
+    "scientific_name": "Xanthomonas arboricola pv. pruni",
+    "type": "Bacterial",
+    "is_healthy": false,
+    "description": "Bacterial spot is a major disease of peach and other stone fruits. It causes leaf spots, fruit spots, and twig cankers, and is particularly difficult to manage in warm, wet climates.",
+    "symptoms": [
+      "Small, angular, dark water-soaked spots on leaves",
+      "Leaf spots turn purple-brown, centers may fall out creating shot-hole appearance",
+      "Severe defoliation in susceptible varieties",
+      "Dark, sunken, pitted spots on fruit surface",
+      "Fruit cracks at lesion sites allowing secondary infections",
+      "Small cankers on current-season twigs"
+    ],
+    "causes": [
+      "Bacteria survive in twig cankers and spread by rain splash",
+      "Warm temperatures (75-86\u00b0F) with wind-driven rain favor infection",
+      "Sandy soils and nutritional stress increase susceptibility",
+      "Bacteria enter through stomata and wounds"
+    ],
+    "remedies": {
+      "chemical": [
+        "Apply copper hydroxide sprays at leaf fall and before bud break",
+        "Use oxytetracycline (Mycoshield) during growing season",
+        "Apply copper + mancozeb tank mix for enhanced efficacy",
+        "Avoid copper after shuck split to prevent fruit russeting"
+      ],
+      "organic": [
+        "Apply fixed copper fungicides during dormant season",
+        "Use copper sulfate (Bordeaux mixture) at leaf fall",
+        "Apply Bacillus subtilis-based products during growing season",
+        "Spray copper at reduced rates to minimize phytotoxicity"
+      ],
+      "cultural": [
+        "Plant resistant varieties (Contender, Harrow Beauty, Redhaven)",
+        "Avoid planting in low-lying areas with poor air circulation",
+        "Ensure adequate nutrition especially nitrogen and zinc",
+        "Prune to open canopy for faster drying of foliage",
+        "Use windbreaks to reduce wind-driven rain spread",
+        "Remove severely infected trees that serve as inoculum source"
+      ],
+      "biological": [
+        "Apply Bacillus subtilis products as part of spray program",
+        "Use bacteriophage-based products where available"
+      ]
     },
-
-    "Peach___healthy": {
-        "disease_name": "Healthy",
-        "plant": "Peach",
-        "scientific_name": null,
-        "type": "Healthy",
-        "is_healthy": true,
-        "description": "The peach tree is healthy with no visible disease symptoms. Leaves are green, properly shaped, and free from spots or discoloration.",
-        "symptoms": [],
-        "causes": [],
-        "remedies": {
-            "maintenance": [
-                "Prune annually in late winter before bud break",
-                "Apply balanced fertilizer (10-10-10) in spring after bloom",
-                "Water deeply during fruit development - 1-2 inches per week",
-                "Thin fruit to 6-8 inches apart for best size and quality",
-                "Apply dormant spray of copper + horticultural oil in late winter",
-                "Monitor for peach tree borers and oriental fruit moth",
-                "Mulch around base but keep mulch away from trunk",
-                "Maintain soil pH between 6.0-6.5"
-            ]
-        },
-        "prevention_tips": [
-            "Follow proper pruning practices to maintain open center",
-            "Apply preventive fungicide program for brown rot and leaf curl",
-            "Monitor for bacterial spot especially in wet years",
-            "Control insect pests to prevent wound entry for diseases"
-        ],
-        "severity": "None",
-        "spread_rate": "N/A"
+    "prevention_tips": [
+      "Variety selection is the most effective management tool",
+      "Begin copper sprays at leaf fall to reduce overwintering inoculum",
+      "Maintain adequate tree nutrition especially on sandy soils",
+      "This is a very difficult disease to control - integrated approach is essential"
+    ],
+    "severity": "High",
+    "spread_rate": "High in wet weather"
+  },
+  "Peach___healthy": {
+    "disease_name": "Healthy",
+    "plant": "Peach",
+    "scientific_name": null,
+    "type": "Healthy",
+    "is_healthy": true,
+    "description": "The peach tree is healthy with no visible disease symptoms. Leaves are green, properly shaped, and free from spots or discoloration.",
+    "symptoms": [],
+    "causes": [],
+    "remedies": {
+      "maintenance": [
+        "Prune annually in late winter before bud break",
+        "Apply balanced fertilizer (10-10-10) in spring after bloom",
+        "Water deeply during fruit development - 1-2 inches per week",
+        "Thin fruit to 6-8 inches apart for best size and quality",
+        "Apply dormant spray of copper + horticultural oil in late winter",
+        "Monitor for peach tree borers and oriental fruit moth",
+        "Mulch around base but keep mulch away from trunk",
+        "Maintain soil pH between 6.0-6.5"
+      ]
     },
-
-    "Pepper,_bell___Bacterial_spot": {
-        "disease_name": "Bacterial Spot",
-        "plant": "Bell Pepper",
-        "scientific_name": "Xanthomonas campestris pv. vesicatoria",
-        "type": "Bacterial",
-        "is_healthy": false,
-        "description": "Bacterial spot is one of the most devastating diseases of pepper and tomato. It causes leaf spots, fruit spots, and defoliation, leading to sunscalded fruit and significant yield losses.",
-        "symptoms": [
-            "Small, dark, water-soaked circular spots on leaves",
-            "Leaf spots become angular, brown with yellow halos",
-            "Severe defoliation exposing fruit to sunscald",
-            "Raised, scab-like spots on fruit surface",
-            "Spots on stems and petioles",
-            "Wilting of young transplants in severe cases"
-        ],
-        "causes": [
-            "Bacteria spread by rain splash, overhead irrigation, and contaminated tools",
-            "Infected seed is a primary source of inoculum",
-            "Warm temperatures (75-86°F) with high humidity",
-            "Workers handling wet plants spread bacteria"
-        ],
-        "remedies": {
-            "chemical": [
-                "Apply copper hydroxide + mancozeb tank mix weekly during wet weather",
-                "Use copper-based bactericides starting at transplanting",
-                "Apply acibenzolar-S-methyl (Actigard) as systemic resistance inducer",
-                "Alternate copper products with biological controls"
-            ],
-            "organic": [
-                "Apply fixed copper sprays every 7-10 days during wet weather",
-                "Use copper sulfate at reduced rates to minimize phytotoxicity",
-                "Apply Bacillus subtilis products between copper sprays",
-                "Spray hydrogen peroxide-based sanitizers"
-            ],
-            "cultural": [
-                "Use certified disease-free seed and transplants",
-                "Treat seed with hot water (125°F for 25 minutes) before planting",
-                "Practice crop rotation - avoid peppers and tomatoes for 2-3 years",
-                "Avoid overhead irrigation - use drip irrigation",
-                "Do not work in fields when plants are wet",
-                "Remove and destroy severely infected plants",
-                "Sanitize all tools and equipment between fields",
-                "Plant resistant varieties when available"
-            ],
-            "biological": [
-                "Apply Bacillus subtilis-based products (Serenade)",
-                "Use bacteriophage-based products where available",
-                "Apply Pseudomonas fluorescens as competitive colonizer"
-            ]
-        },
-        "prevention_tips": [
-            "Start with clean seed and transplants - this is critical",
-            "Begin copper sprays at transplanting before symptoms appear",
-            "Avoid overhead irrigation and working in wet fields",
-            "Rotate away from solanaceous crops for at least 2 years"
-        ],
-        "severity": "High",
-        "spread_rate": "Very High in wet conditions"
+    "prevention_tips": [
+      "Follow proper pruning practices to maintain open center",
+      "Apply preventive fungicide program for brown rot and leaf curl",
+      "Monitor for bacterial spot especially in wet years",
+      "Control insect pests to prevent wound entry for diseases"
+    ],
+    "severity": "None",
+    "spread_rate": "N/A"
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "disease_name": "Bacterial Spot",
+    "plant": "Bell Pepper",
+    "scientific_name": "Xanthomonas campestris pv. vesicatoria",
+    "type": "Bacterial",
+    "is_healthy": false,
+    "description": "Bacterial spot is one of the most devastating diseases of pepper and tomato. It causes leaf spots, fruit spots, and defoliation, leading to sunscalded fruit and significant yield losses.",
+    "symptoms": [
+      "Small, dark, water-soaked circular spots on leaves",
+      "Leaf spots become angular, brown with yellow halos",
+      "Severe defoliation exposing fruit to sunscald",
+      "Raised, scab-like spots on fruit surface",
+      "Spots on stems and petioles",
+      "Wilting of young transplants in severe cases"
+    ],
+    "causes": [
+      "Bacteria spread by rain splash, overhead irrigation, and contaminated tools",
+      "Infected seed is a primary source of inoculum",
+      "Warm temperatures (75-86\u00b0F) with high humidity",
+      "Workers handling wet plants spread bacteria"
+    ],
+    "remedies": {
+      "chemical": [
+        "Apply copper hydroxide + mancozeb tank mix weekly during wet weather",
+        "Use copper-based bactericides starting at transplanting",
+        "Apply acibenzolar-S-methyl (Actigard) as systemic resistance inducer",
+        "Alternate copper products with biological controls"
+      ],
+      "organic": [
+        "Apply fixed copper sprays every 7-10 days during wet weather",
+        "Use copper sulfate at reduced rates to minimize phytotoxicity",
+        "Apply Bacillus subtilis products between copper sprays",
+        "Spray hydrogen peroxide-based sanitizers"
+      ],
+      "cultural": [
+        "Use certified disease-free seed and transplants",
+        "Treat seed with hot water (125\u00b0F for 25 minutes) before planting",
+        "Practice crop rotation - avoid peppers and tomatoes for 2-3 years",
+        "Avoid overhead irrigation - use drip irrigation",
+        "Do not work in fields when plants are wet",
+        "Remove and destroy severely infected plants",
+        "Sanitize all tools and equipment between fields",
+        "Plant resistant varieties when available"
+      ],
+      "biological": [
+        "Apply Bacillus subtilis-based products (Serenade)",
+        "Use bacteriophage-based products where available",
+        "Apply Pseudomonas fluorescens as competitive colonizer"
+      ]
     },
-
-    "Pepper,_bell___healthy": {
-        "disease_name": "Healthy",
-        "plant": "Bell Pepper",
-        "scientific_name": null,
-        "type": "Healthy",
-        "is_healthy": true,
-        "description": "The bell pepper plant is healthy with no visible disease symptoms. Leaves are dark green, firm, and free from spots or wilting.",
-        "symptoms": [],
-        "causes": [],
-        "remedies": {
-            "maintenance": [
-                "Water consistently - peppers need 1-2 inches per week",
-                "Use drip irrigation to keep foliage dry",
-                "Apply balanced fertilizer at planting and side-dress at flowering",
-                "Mulch with straw or plastic to retain moisture and reduce splash",
-                "Stake or cage plants to keep fruit off the ground",
-                "Monitor for aphids, pepper weevils, and hornworms",
-                "Harvest fruit regularly to encourage continued production",
-                "Maintain soil pH between 6.0-6.8"
-            ]
-        },
-        "prevention_tips": [
-            "Rotate crops - don't plant peppers after tomatoes or potatoes",
-            "Use disease-resistant varieties when available",
-            "Keep foliage dry through proper irrigation practices",
-            "Remove plant debris at end of season"
-        ],
-        "severity": "None",
-        "spread_rate": "N/A"
+    "prevention_tips": [
+      "Start with clean seed and transplants - this is critical",
+      "Begin copper sprays at transplanting before symptoms appear",
+      "Avoid overhead irrigation and working in wet fields",
+      "Rotate away from solanaceous crops for at least 2 years"
+    ],
+    "severity": "High",
+    "spread_rate": "Very High in wet conditions"
+  },
+  "Pepper,_bell___healthy": {
+    "disease_name": "Healthy",
+    "plant": "Bell Pepper",
+    "scientific_name": null,
+    "type": "Healthy",
+    "is_healthy": true,
+    "description": "The bell pepper plant is healthy with no visible disease symptoms. Leaves are dark green, firm, and free from spots or wilting.",
+    "symptoms": [],
+    "causes": [],
+    "remedies": {
+      "maintenance": [
+        "Water consistently - peppers need 1-2 inches per week",
+        "Use drip irrigation to keep foliage dry",
+        "Apply balanced fertilizer at planting and side-dress at flowering",
+        "Mulch with straw or plastic to retain moisture and reduce splash",
+        "Stake or cage plants to keep fruit off the ground",
+        "Monitor for aphids, pepper weevils, and hornworms",
+        "Harvest fruit regularly to encourage continued production",
+        "Maintain soil pH between 6.0-6.8"
+      ]
     },
-
-    "Potato___Early_blight": {
-        "disease_name": "Early Blight",
-        "plant": "Potato",
-        "scientific_name": "Alternaria solani",
-        "type": "Fungal",
-        "is_healthy": false,
-        "description": "Early blight is a common fungal disease of potato that causes characteristic concentric-ringed (target-shaped) lesions on leaves. It typically appears during warm, humid weather and can significantly reduce yields.",
-        "symptoms": [
-            "Dark brown to black lesions with concentric rings (target/bullseye pattern)",
-            "Lesions first appear on older, lower leaves",
-            "Yellow halo around lesions",
-            "Progressive defoliation from bottom of plant upward",
-            "Dark, sunken, circular lesions on tubers",
-            "Collar rot on stems near soil line"
-        ],
-        "causes": [
-            "Fungus overwinters in infected plant debris and soil",
-            "Warm temperatures (75-84°F) with alternating wet and dry periods",
-            "Stressed plants (nutrient deficiency, drought) are more susceptible",
-            "Spores spread by wind, rain splash, and irrigation water"
-        ],
-        "remedies": {
-            "chemical": [
-                "Apply chlorothalonil (Bravo) as protective fungicide every 7-10 days",
-                "Use azoxystrobin (Quadris) for systemic control",
-                "Apply mancozeb as economical protective fungicide",
-                "Use difenoconazole + mandipropamid for advanced infections",
-                "Rotate fungicide modes of action to prevent resistance"
-            ],
-            "organic": [
-                "Apply copper-based fungicides every 7-10 days",
-                "Use Bacillus subtilis products (Serenade) as biofungicide",
-                "Spray neem oil every 7 days as preventive treatment",
-                "Apply compost tea to boost plant immune system"
-            ],
-            "cultural": [
-                "Practice 3-year crop rotation away from solanaceous crops",
-                "Remove and destroy infected plant debris after harvest",
-                "Plant certified disease-free seed potatoes",
-                "Hill potatoes to prevent tuber infection from spore wash",
-                "Ensure adequate and balanced fertilization",
-                "Irrigate in morning so foliage dries quickly",
-                "Plant resistant or tolerant varieties",
-                "Avoid overhead irrigation"
-            ],
-            "biological": [
-                "Apply Trichoderma harzianum as soil treatment",
-                "Use Bacillus amyloliquefaciens-based products",
-                "Apply beneficial fungi to compete with pathogen in soil"
-            ]
-        },
-        "prevention_tips": [
-            "Start fungicide program before symptoms appear in high-risk conditions",
-            "Maintain adequate plant nutrition - stressed plants are most susceptible",
-            "Destroy all plant debris and volunteer potatoes",
-            "Use a combination of resistant varieties and fungicide program"
-        ],
-        "severity": "Moderate to High",
-        "spread_rate": "Moderate"
+    "prevention_tips": [
+      "Rotate crops - don't plant peppers after tomatoes or potatoes",
+      "Use disease-resistant varieties when available",
+      "Keep foliage dry through proper irrigation practices",
+      "Remove plant debris at end of season"
+    ],
+    "severity": "None",
+    "spread_rate": "N/A"
+  },
+  "Potato___Early_blight": {
+    "disease_name": "Early Blight",
+    "plant": "Potato",
+    "scientific_name": "Alternaria solani",
+    "type": "Fungal",
+    "is_healthy": false,
+    "description": "Early blight is a common fungal disease of potato that causes characteristic concentric-ringed (target-shaped) lesions on leaves. It typically appears during warm, humid weather and can significantly reduce yields.",
+    "symptoms": [
+      "Dark brown to black lesions with concentric rings (target/bullseye pattern)",
+      "Lesions first appear on older, lower leaves",
+      "Yellow halo around lesions",
+      "Progressive defoliation from bottom of plant upward",
+      "Dark, sunken, circular lesions on tubers",
+      "Collar rot on stems near soil line"
+    ],
+    "causes": [
+      "Fungus overwinters in infected plant debris and soil",
+      "Warm temperatures (75-84\u00b0F) with alternating wet and dry periods",
+      "Stressed plants (nutrient deficiency, drought) are more susceptible",
+      "Spores spread by wind, rain splash, and irrigation water"
+    ],
+    "remedies": {
+      "chemical": [
+        "Apply chlorothalonil (Bravo) as protective fungicide every 7-10 days",
+        "Use azoxystrobin (Quadris) for systemic control",
+        "Apply mancozeb as economical protective fungicide",
+        "Use difenoconazole + mandipropamid for advanced infections",
+        "Rotate fungicide modes of action to prevent resistance"
+      ],
+      "organic": [
+        "Apply copper-based fungicides every 7-10 days",
+        "Use Bacillus subtilis products (Serenade) as biofungicide",
+        "Spray neem oil every 7 days as preventive treatment",
+        "Apply compost tea to boost plant immune system"
+      ],
+      "cultural": [
+        "Practice 3-year crop rotation away from solanaceous crops",
+        "Remove and destroy infected plant debris after harvest",
+        "Plant certified disease-free seed potatoes",
+        "Hill potatoes to prevent tuber infection from spore wash",
+        "Ensure adequate and balanced fertilization",
+        "Irrigate in morning so foliage dries quickly",
+        "Plant resistant or tolerant varieties",
+        "Avoid overhead irrigation"
+      ],
+      "biological": [
+        "Apply Trichoderma harzianum as soil treatment",
+        "Use Bacillus amyloliquefaciens-based products",
+        "Apply beneficial fungi to compete with pathogen in soil"
+      ]
     },
-
-    "Potato___Late_blight": {
-        "disease_name": "Late Blight",
-        "plant": "Potato",
-        "scientific_name": "Phytophthora infestans",
-        "type": "Oomycete (water mold)",
-        "is_healthy": false,
-        "description": "Late blight is the most destructive disease of potato, historically responsible for the Irish Potato Famine. It can destroy entire fields within days under favorable conditions and requires immediate, aggressive management.",
-        "symptoms": [
-            "Large, irregular, water-soaked lesions on leaves, often starting at leaf tips",
-            "White, fuzzy fungal growth on underside of leaves in humid conditions",
-            "Lesions turn dark brown to black rapidly",
-            "Entire plant can collapse and die within days",
-            "Reddish-brown, granular rot extending into potato tubers",
-            "Foul smell from decaying plant tissue"
-        ],
-        "causes": [
-            "Oomycete pathogen that thrives in cool (50-70°F), wet conditions",
-            "Sporangia spread rapidly by wind and rain over long distances",
-            "Infected seed potatoes and volunteer plants serve as inoculum",
-            "Cull piles of infected tubers are major source of spores"
-        ],
-        "remedies": {
-            "chemical": [
-                "Apply chlorothalonil as protective fungicide before infection occurs",
-                "Use mefenoxam/metalaxyl + mancozeb for systemic + protective control",
-                "Apply cymoxanil + mancozeb for curative action within 2 days of infection",
-                "Use fluopicolide or mandipropamid for resistant strains",
-                "Apply fungicides every 5-7 days during high-risk weather",
-                "Spray immediately if late blight is reported in your region"
-            ],
-            "organic": [
-                "Apply copper hydroxide or copper sulfate every 5-7 days",
-                "Use Bacillus subtilis products between copper sprays",
-                "Apply copper at higher rates than for early blight",
-                "Potassium bicarbonate as supplemental spray"
-            ],
-            "cultural": [
-                "Plant only certified disease-free seed potatoes",
-                "Destroy all cull piles and volunteer potatoes",
-                "Plant resistant varieties (Defender, Elba, Kennebec)",
-                "Destroy entire crop immediately if late blight is confirmed",
-                "Kill vines 2-3 weeks before harvest to prevent tuber infection",
-                "Harvest in dry conditions and cure tubers before storage",
-                "Do NOT compost infected material - burn or deep bury it",
-                "Avoid overhead irrigation"
-            ],
-            "biological": [
-                "Biological control is limited for this aggressive pathogen",
-                "Trichoderma products may provide supplemental protection",
-                "Use in combination with other methods only"
-            ]
-        },
-        "prevention_tips": [
-            "THIS IS AN EMERGENCY DISEASE - act immediately when detected",
-            "Monitor late blight forecasting systems in your region",
-            "Begin fungicide program before any reports in your area",
-            "Destroy all sources of inoculum (cull piles, volunteers)",
-            "Report confirmed cases to your extension service"
-        ],
-        "severity": "Critical",
-        "spread_rate": "Very High"
+    "prevention_tips": [
+      "Start fungicide program before symptoms appear in high-risk conditions",
+      "Maintain adequate plant nutrition - stressed plants are most susceptible",
+      "Destroy all plant debris and volunteer potatoes",
+      "Use a combination of resistant varieties and fungicide program"
+    ],
+    "severity": "Moderate to High",
+    "spread_rate": "Moderate"
+  },
+  "Potato___Late_blight": {
+    "disease_name": "Late Blight",
+    "plant": "Potato",
+    "scientific_name": "Phytophthora infestans",
+    "type": "Oomycete (water mold)",
+    "is_healthy": false,
+    "description": "Late blight is the most destructive disease of potato, historically responsible for the Irish Potato Famine. It can destroy entire fields within days under favorable conditions and requires immediate, aggressive management.",
+    "symptoms": [
+      "Large, irregular, water-soaked lesions on leaves, often starting at leaf tips",
+      "White, fuzzy fungal growth on underside of leaves in humid conditions",
+      "Lesions turn dark brown to black rapidly",
+      "Entire plant can collapse and die within days",
+      "Reddish-brown, granular rot extending into potato tubers",
+      "Foul smell from decaying plant tissue"
+    ],
+    "causes": [
+      "Oomycete pathogen that thrives in cool (50-70\u00b0F), wet conditions",
+      "Sporangia spread rapidly by wind and rain over long distances",
+      "Infected seed potatoes and volunteer plants serve as inoculum",
+      "Cull piles of infected tubers are major source of spores"
+    ],
+    "remedies": {
+      "chemical": [
+        "Apply chlorothalonil as protective fungicide before infection occurs",
+        "Use mefenoxam/metalaxyl + mancozeb for systemic + protective control",
+        "Apply cymoxanil + mancozeb for curative action within 2 days of infection",
+        "Use fluopicolide or mandipropamid for resistant strains",
+        "Apply fungicides every 5-7 days during high-risk weather",
+        "Spray immediately if late blight is reported in your region"
+      ],
+      "organic": [
+        "Apply copper hydroxide or copper sulfate every 5-7 days",
+        "Use Bacillus subtilis products between copper sprays",
+        "Apply copper at higher rates than for early blight",
+        "Potassium bicarbonate as supplemental spray"
+      ],
+      "cultural": [
+        "Plant only certified disease-free seed potatoes",
+        "Destroy all cull piles and volunteer potatoes",
+        "Plant resistant varieties (Defender, Elba, Kennebec)",
+        "Destroy entire crop immediately if late blight is confirmed",
+        "Kill vines 2-3 weeks before harvest to prevent tuber infection",
+        "Harvest in dry conditions and cure tubers before storage",
+        "Do NOT compost infected material - burn or deep bury it",
+        "Avoid overhead irrigation"
+      ],
+      "biological": [
+        "Biological control is limited for this aggressive pathogen",
+        "Trichoderma products may provide supplemental protection",
+        "Use in combination with other methods only"
+      ]
     },
-
-    "Potato___healthy": {
-        "disease_name": "Healthy",
-        "plant": "Potato",
-        "scientific_name": null,
-        "type": "Healthy",
-        "is_healthy": true,
-        "description": "The potato plant is healthy with no visible signs of disease. Foliage is green, vigorous, and free from lesions, spots, or wilting.",
-        "symptoms": [],
-        "causes": [],
-        "remedies": {
-            "maintenance": [
-                "Water consistently - potatoes need 1-2 inches per week",
-                "Hill soil around stems as plants grow to protect developing tubers",
-                "Apply balanced fertilizer at planting and side-dress at tuber initiation",
-                "Monitor for Colorado potato beetle and aphids",
-                "Scout regularly for early and late blight symptoms",
-                "Maintain soil pH between 5.0-6.5",
-                "Apply mulch to keep soil cool and moist",
-                "Cure harvested tubers in dark, well-ventilated space at 50-60°F"
-            ]
-        },
-        "prevention_tips": [
-            "Use only certified seed potatoes",
-            "Rotate crops on a 3-year cycle",
-            "Destroy volunteer potatoes and cull piles",
-            "Monitor late blight forecasting services in your region"
-        ],
-        "severity": "None",
-        "spread_rate": "N/A"
+    "prevention_tips": [
+      "THIS IS AN EMERGENCY DISEASE - act immediately when detected",
+      "Monitor late blight forecasting systems in your region",
+      "Begin fungicide program before any reports in your area",
+      "Destroy all sources of inoculum (cull piles, volunteers)",
+      "Report confirmed cases to your extension service"
+    ],
+    "severity": "Critical",
+    "spread_rate": "Very High"
+  },
+  "Potato___healthy": {
+    "disease_name": "Healthy",
+    "plant": "Potato",
+    "scientific_name": null,
+    "type": "Healthy",
+    "is_healthy": true,
+    "description": "The potato plant is healthy with no visible signs of disease. Foliage is green, vigorous, and free from lesions, spots, or wilting.",
+    "symptoms": [],
+    "causes": [],
+    "remedies": {
+      "maintenance": [
+        "Water consistently - potatoes need 1-2 inches per week",
+        "Hill soil around stems as plants grow to protect developing tubers",
+        "Apply balanced fertilizer at planting and side-dress at tuber initiation",
+        "Monitor for Colorado potato beetle and aphids",
+        "Scout regularly for early and late blight symptoms",
+        "Maintain soil pH between 5.0-6.5",
+        "Apply mulch to keep soil cool and moist",
+        "Cure harvested tubers in dark, well-ventilated space at 50-60\u00b0F"
+      ]
     },
-
-    "Raspberry___healthy": {
-        "disease_name": "Healthy",
-        "plant": "Raspberry",
-        "scientific_name": null,
-        "type": "Healthy",
-        "is_healthy": true,
-        "description": "The raspberry plant is healthy with no visible signs of disease. Canes are vigorous, leaves are green and well-formed, and there are no signs of infection.",
-        "symptoms": [],
-        "causes": [],
-        "remedies": {
-            "maintenance": [
-                "Prune spent floricanes after fruiting for summer-bearing types",
-                "Water consistently - 1-1.5 inches per week during growing season",
-                "Apply balanced fertilizer in early spring",
-                "Mulch with straw or wood chips to retain moisture and control weeds",
-                "Train canes to trellis system for support and air circulation",
-                "Remove weak, diseased, or crowded canes annually",
-                "Net plants to protect fruit from birds",
-                "Test soil annually and maintain pH between 5.5-6.5"
-            ]
-        },
-        "prevention_tips": [
-            "Maintain good air circulation through proper spacing and pruning",
-            "Avoid overhead irrigation",
-            "Plant certified virus-free stock",
-            "Remove old canes promptly to reduce disease habitat"
-        ],
-        "severity": "None",
-        "spread_rate": "N/A"
+    "prevention_tips": [
+      "Use only certified seed potatoes",
+      "Rotate crops on a 3-year cycle",
+      "Destroy volunteer potatoes and cull piles",
+      "Monitor late blight forecasting services in your region"
+    ],
+    "severity": "None",
+    "spread_rate": "N/A"
+  },
+  "Raspberry___healthy": {
+    "disease_name": "Healthy",
+    "plant": "Raspberry",
+    "scientific_name": null,
+    "type": "Healthy",
+    "is_healthy": true,
+    "description": "The raspberry plant is healthy with no visible signs of disease. Canes are vigorous, leaves are green and well-formed, and there are no signs of infection.",
+    "symptoms": [],
+    "causes": [],
+    "remedies": {
+      "maintenance": [
+        "Prune spent floricanes after fruiting for summer-bearing types",
+        "Water consistently - 1-1.5 inches per week during growing season",
+        "Apply balanced fertilizer in early spring",
+        "Mulch with straw or wood chips to retain moisture and control weeds",
+        "Train canes to trellis system for support and air circulation",
+        "Remove weak, diseased, or crowded canes annually",
+        "Net plants to protect fruit from birds",
+        "Test soil annually and maintain pH between 5.5-6.5"
+      ]
     },
-
-    "Soybean___healthy": {
-        "disease_name": "Healthy",
-        "plant": "Soybean",
-        "scientific_name": null,
-        "type": "Healthy",
-        "is_healthy": true,
-        "description": "The soybean plant is healthy with no visible signs of disease. Leaves are trifoliate, green, and free from spots, lesions, or abnormal discoloration.",
-        "symptoms": [],
-        "causes": [],
-        "remedies": {
-            "maintenance": [
-                "Ensure proper inoculation with Bradyrhizobium japonicum at planting",
-                "Water during critical reproductive stages (R1-R6) if dry",
-                "Scout for soybean aphids, bean leaf beetles, and stink bugs",
-                "Monitor for sudden death syndrome and white mold",
-                "Maintain soil fertility based on soil test recommendations",
-                "Control weeds through cultivation or herbicide program",
-                "Plant at appropriate row spacing and population for your region",
-                "Harvest promptly at maturity to minimize field losses"
-            ]
-        },
-        "prevention_tips": [
-            "Rotate with corn or other non-legume crops",
-            "Select varieties with disease resistance packages suited to your area",
-            "Avoid planting in poorly drained fields",
-            "Use certified treated seed for best stand establishment"
-        ],
-        "severity": "None",
-        "spread_rate": "N/A"
+    "prevention_tips": [
+      "Maintain good air circulation through proper spacing and pruning",
+      "Avoid overhead irrigation",
+      "Plant certified virus-free stock",
+      "Remove old canes promptly to reduce disease habitat"
+    ],
+    "severity": "None",
+    "spread_rate": "N/A"
+  },
+  "Soybean___healthy": {
+    "disease_name": "Healthy",
+    "plant": "Soybean",
+    "scientific_name": null,
+    "type": "Healthy",
+    "is_healthy": true,
+    "description": "The soybean plant is healthy with no visible signs of disease. Leaves are trifoliate, green, and free from spots, lesions, or abnormal discoloration.",
+    "symptoms": [],
+    "causes": [],
+    "remedies": {
+      "maintenance": [
+        "Ensure proper inoculation with Bradyrhizobium japonicum at planting",
+        "Water during critical reproductive stages (R1-R6) if dry",
+        "Scout for soybean aphids, bean leaf beetles, and stink bugs",
+        "Monitor for sudden death syndrome and white mold",
+        "Maintain soil fertility based on soil test recommendations",
+        "Control weeds through cultivation or herbicide program",
+        "Plant at appropriate row spacing and population for your region",
+        "Harvest promptly at maturity to minimize field losses"
+      ]
     },
-
-    "Squash___Powdery_mildew": {
-        "disease_name": "Powdery Mildew",
-        "plant": "Squash",
-        "scientific_name": "Podosphaera xanthii / Erysiphe cichoracearum",
-        "type": "Fungal",
-        "is_healthy": false,
-        "description": "Powdery mildew is the most common disease of squash and other cucurbits. It causes a white, powdery coating on leaves that reduces photosynthesis and can significantly affect yield and fruit quality.",
-        "symptoms": [
-            "White, powdery talc-like coating on upper leaf surfaces",
-            "May also appear on lower leaf surfaces, stems, and petioles",
-            "Yellowing and browning of affected leaves",
-            "Premature leaf death and defoliation",
-            "Reduced fruit size, number, and quality",
-            "Sunscald on exposed fruit due to defoliation"
-        ],
-        "causes": [
-            "Fungal spores spread by wind - does NOT require free water",
-            "Moderate temperatures (68-80°F) with high humidity but dry leaves",
-            "Shaded conditions and crowded plantings increase susceptibility",
-            "Late-season plantings are often more severely affected"
-        ],
-        "remedies": {
-            "chemical": [
-                "Apply myclobutanil at first sign of disease",
-                "Use chlorothalonil as protective fungicide",
-                "Apply triflumizole or triadimefon for systemic control",
-                "Alternate fungicides with different modes of action",
-                "Spray both upper and lower leaf surfaces thoroughly"
-            ],
-            "organic": [
-                "Apply potassium bicarbonate (1 tablespoon per gallon with liquid soap)",
-                "Spray milk solution (40% milk to 60% water) every 7 days",
-                "Apply sulfur-based fungicides (avoid when temperature exceeds 90°F)",
-                "Use neem oil spray every 7-10 days",
-                "Apply horticultural oil (1-2%) as preventive spray",
-                "Spray diluted hydrogen peroxide solution"
-            ],
-            "cultural": [
-                "Plant powdery mildew resistant varieties",
-                "Space plants adequately for good air circulation",
-                "Avoid excessive nitrogen fertilization",
-                "Remove and destroy severely infected leaves",
-                "Plant in full sun locations",
-                "Use drip irrigation to keep foliage dry",
-                "Plant early to harvest before peak disease pressure"
-            ],
-            "biological": [
-                "Apply Bacillus subtilis (Serenade) every 7-14 days",
-                "Use Streptomyces lydicus-based products",
-                "Apply Ampelomyces quisqualis - a natural parasite of powdery mildew"
-            ]
-        },
-        "prevention_tips": [
-            "Plant resistant varieties - this is the most effective strategy",
-            "Begin fungicide or organic spray program at first sign of disease",
-            "Monitor closely starting mid-season when disease pressure increases",
-            "Milk spray is surprisingly effective as a low-cost organic option"
-        ],
-        "severity": "Moderate to High",
-        "spread_rate": "Very High"
+    "prevention_tips": [
+      "Rotate with corn or other non-legume crops",
+      "Select varieties with disease resistance packages suited to your area",
+      "Avoid planting in poorly drained fields",
+      "Use certified treated seed for best stand establishment"
+    ],
+    "severity": "None",
+    "spread_rate": "N/A"
+  },
+  "Squash___Powdery_mildew": {
+    "disease_name": "Powdery Mildew",
+    "plant": "Squash",
+    "scientific_name": "Podosphaera xanthii / Erysiphe cichoracearum",
+    "type": "Fungal",
+    "is_healthy": false,
+    "description": "Powdery mildew is the most common disease of squash and other cucurbits. It causes a white, powdery coating on leaves that reduces photosynthesis and can significantly affect yield and fruit quality.",
+    "symptoms": [
+      "White, powdery talc-like coating on upper leaf surfaces",
+      "May also appear on lower leaf surfaces, stems, and petioles",
+      "Yellowing and browning of affected leaves",
+      "Premature leaf death and defoliation",
+      "Reduced fruit size, number, and quality",
+      "Sunscald on exposed fruit due to defoliation"
+    ],
+    "causes": [
+      "Fungal spores spread by wind - does NOT require free water",
+      "Moderate temperatures (68-80\u00b0F) with high humidity but dry leaves",
+      "Shaded conditions and crowded plantings increase susceptibility",
+      "Late-season plantings are often more severely affected"
+    ],
+    "remedies": {
+      "chemical": [
+        "Apply myclobutanil at first sign of disease",
+        "Use chlorothalonil as protective fungicide",
+        "Apply triflumizole or triadimefon for systemic control",
+        "Alternate fungicides with different modes of action",
+        "Spray both upper and lower leaf surfaces thoroughly"
+      ],
+      "organic": [
+        "Apply potassium bicarbonate (1 tablespoon per gallon with liquid soap)",
+        "Spray milk solution (40% milk to 60% water) every 7 days",
+        "Apply sulfur-based fungicides (avoid when temperature exceeds 90\u00b0F)",
+        "Use neem oil spray every 7-10 days",
+        "Apply horticultural oil (1-2%) as preventive spray",
+        "Spray diluted hydrogen peroxide solution"
+      ],
+      "cultural": [
+        "Plant powdery mildew resistant varieties",
+        "Space plants adequately for good air circulation",
+        "Avoid excessive nitrogen fertilization",
+        "Remove and destroy severely infected leaves",
+        "Plant in full sun locations",
+        "Use drip irrigation to keep foliage dry",
+        "Plant early to harvest before peak disease pressure"
+      ],
+      "biological": [
+        "Apply Bacillus subtilis (Serenade) every 7-14 days",
+        "Use Streptomyces lydicus-based products",
+        "Apply Ampelomyces quisqualis - a natural parasite of powdery mildew"
+      ]
     },
-
-    "Strawberry___Leaf_scorch": {
-        "disease_name": "Leaf Scorch",
-        "plant": "Strawberry",
-        "scientific_name": "Diplocarpon earlianum",
-        "type": "Fungal",
-        "is_healthy": false,
-        "description": "Leaf scorch is a common fungal disease of strawberry that causes numerous small, dark purple spots on leaves. Severe infections lead to a scorched appearance and can significantly weaken plants.",
-        "symptoms": [
-            "Numerous small, dark purple irregular spots on upper leaf surface",
-            "Spots may merge giving leaves a burned or scorched appearance",
-            "Affected leaves curl upward and appear dried",
-            "Dark spots on petioles, stolons, and fruit stalks",
-            "Weakened plants with reduced fruit production",
-            "Severely affected leaves die and remain attached to plant"
-        ],
-        "causes": [
-            "Fungus overwinters in infected dead leaves",
-            "Spores spread by rain splash and overhead irrigation",
-            "Warm temperatures (70-85°F) with frequent rainfall or irrigation",
-            "Crowded plantings with poor air circulation"
-        ],
-        "remedies": {
-            "chemical": [
-                "Apply captan fungicide every 7-10 days during wet periods",
-                "Use myclobutanil for systemic control",
-                "Apply azoxystrobin (Quadris) as preventive treatment",
-                "Spray copper-based fungicides in early spring"
-            ],
-            "organic": [
-                "Apply copper hydroxide or copper sulfate sprays",
-                "Use neem oil spray every 7-10 days",
-                "Apply Bacillus subtilis-based biofungicides",
-                "Spray potassium bicarbonate solution"
-            ],
-            "cultural": [
-                "Plant resistant varieties (Allstar, Earliglow, Sparkle)",
-                "Renovate beds after harvest - mow foliage and narrow rows",
-                "Avoid overhead irrigation - use drip irrigation",
-                "Improve air circulation through proper plant spacing",
-                "Remove and destroy infected plant debris",
-                "Rotate strawberry beds every 3-4 years",
-                "Mulch with straw to reduce rain splash"
-            ],
-            "biological": [
-                "Apply Trichoderma-based products to soil",
-                "Use Bacillus subtilis foliar sprays",
-                "Encourage beneficial soil microorganisms through compost"
-            ]
-        },
-        "prevention_tips": [
-            "Select resistant varieties for areas with disease history",
-            "Renovate beds promptly after harvest",
-            "Avoid overhead irrigation especially during fruiting",
-            "Maintain proper plant spacing and bed width"
-        ],
-        "severity": "Moderate",
-        "spread_rate": "Moderate"
+    "prevention_tips": [
+      "Plant resistant varieties - this is the most effective strategy",
+      "Begin fungicide or organic spray program at first sign of disease",
+      "Monitor closely starting mid-season when disease pressure increases",
+      "Milk spray is surprisingly effective as a low-cost organic option"
+    ],
+    "severity": "Moderate to High",
+    "spread_rate": "Very High"
+  },
+  "Strawberry___Leaf_scorch": {
+    "disease_name": "Leaf Scorch",
+    "plant": "Strawberry",
+    "scientific_name": "Diplocarpon earlianum",
+    "type": "Fungal",
+    "is_healthy": false,
+    "description": "Leaf scorch is a common fungal disease of strawberry that causes numerous small, dark purple spots on leaves. Severe infections lead to a scorched appearance and can significantly weaken plants.",
+    "symptoms": [
+      "Numerous small, dark purple irregular spots on upper leaf surface",
+      "Spots may merge giving leaves a burned or scorched appearance",
+      "Affected leaves curl upward and appear dried",
+      "Dark spots on petioles, stolons, and fruit stalks",
+      "Weakened plants with reduced fruit production",
+      "Severely affected leaves die and remain attached to plant"
+    ],
+    "causes": [
+      "Fungus overwinters in infected dead leaves",
+      "Spores spread by rain splash and overhead irrigation",
+      "Warm temperatures (70-85\u00b0F) with frequent rainfall or irrigation",
+      "Crowded plantings with poor air circulation"
+    ],
+    "remedies": {
+      "chemical": [
+        "Apply captan fungicide every 7-10 days during wet periods",
+        "Use myclobutanil for systemic control",
+        "Apply azoxystrobin (Quadris) as preventive treatment",
+        "Spray copper-based fungicides in early spring"
+      ],
+      "organic": [
+        "Apply copper hydroxide or copper sulfate sprays",
+        "Use neem oil spray every 7-10 days",
+        "Apply Bacillus subtilis-based biofungicides",
+        "Spray potassium bicarbonate solution"
+      ],
+      "cultural": [
+        "Plant resistant varieties (Allstar, Earliglow, Sparkle)",
+        "Renovate beds after harvest - mow foliage and narrow rows",
+        "Avoid overhead irrigation - use drip irrigation",
+        "Improve air circulation through proper plant spacing",
+        "Remove and destroy infected plant debris",
+        "Rotate strawberry beds every 3-4 years",
+        "Mulch with straw to reduce rain splash"
+      ],
+      "biological": [
+        "Apply Trichoderma-based products to soil",
+        "Use Bacillus subtilis foliar sprays",
+        "Encourage beneficial soil microorganisms through compost"
+      ]
     },
-
-    "Strawberry___healthy": {
-        "disease_name": "Healthy",
-        "plant": "Strawberry",
-        "scientific_name": null,
-        "type": "Healthy",
-        "is_healthy": true,
-        "description": "The strawberry plant is healthy with no visible disease symptoms. Leaves are dark green, trifoliate, and free from spots or scorching.",
-        "symptoms": [],
-        "causes": [],
-        "remedies": {
-            "maintenance": [
-                "Water 1-1.5 inches per week using drip irrigation",
-                "Apply balanced fertilizer at planting and after first harvest",
-                "Mulch with straw to keep fruit clean and retain moisture",
-                "Remove runners regularly unless propagating new plants",
-                "Renovate June-bearing beds after harvest",
-                "Monitor for spider mites, slugs, and tarnished plant bugs",
-                "Harvest fruit promptly when ripe",
-                "Protect from frost in spring with row covers",
-                "Replace beds every 3-4 years for best production"
-            ]
-        },
-        "prevention_tips": [
-            "Use certified disease-free transplants",
-            "Maintain proper spacing for air circulation",
-            "Rotate planting areas every few years",
-            "Remove diseased plants promptly if symptoms appear"
-        ],
-        "severity": "None",
-        "spread_rate": "N/A"
+    "prevention_tips": [
+      "Select resistant varieties for areas with disease history",
+      "Renovate beds promptly after harvest",
+      "Avoid overhead irrigation especially during fruiting",
+      "Maintain proper plant spacing and bed width"
+    ],
+    "severity": "Moderate",
+    "spread_rate": "Moderate"
+  },
+  "Strawberry___healthy": {
+    "disease_name": "Healthy",
+    "plant": "Strawberry",
+    "scientific_name": null,
+    "type": "Healthy",
+    "is_healthy": true,
+    "description": "The strawberry plant is healthy with no visible disease symptoms. Leaves are dark green, trifoliate, and free from spots or scorching.",
+    "symptoms": [],
+    "causes": [],
+    "remedies": {
+      "maintenance": [
+        "Water 1-1.5 inches per week using drip irrigation",
+        "Apply balanced fertilizer at planting and after first harvest",
+        "Mulch with straw to keep fruit clean and retain moisture",
+        "Remove runners regularly unless propagating new plants",
+        "Renovate June-bearing beds after harvest",
+        "Monitor for spider mites, slugs, and tarnished plant bugs",
+        "Harvest fruit promptly when ripe",
+        "Protect from frost in spring with row covers",
+        "Replace beds every 3-4 years for best production"
+      ]
     },
-
-    "Tomato___Bacterial_spot": {
-        "disease_name": "Bacterial Spot",
-        "plant": "Tomato",
-        "scientific_name": "Xanthomonas vesicatoria / X. euvesicatoria / X. gardneri / X. perforans",
-        "type": "Bacterial",
-        "is_healthy": false,
-        "description": "Bacterial spot of tomato is caused by several Xanthomonas species. It causes leaf spots, fruit spots, and defoliation, and is extremely difficult to control once established, especially in warm, wet conditions.",
-        "symptoms": [
-            "Small, dark, water-soaked circular spots on leaves",
-            "Spots turn brown with yellow halos, may have greasy appearance",
-            "Severe defoliation leading to sunscalded fruit",
-            "Small, raised, scab-like spots on green fruit",
-            "Spots on fruit become brown and rough as fruit matures",
-            "Spots on stems and petioles"
-        ],
-        "causes": [
-            "Bacteria spread by rain splash, wind-driven rain, and contaminated tools",
-            "Infected seed is a primary source of contamination",
-            "Warm temperatures (75-86°F) with frequent rain or overhead irrigation",
-            "Volunteer plants and crop debris harbor bacteria"
-        ],
-        "remedies": {
-            "chemical": [
-                "Apply copper hydroxide + mancozeb tank mix weekly in wet weather",
-                "Use fixed copper products (Kocide, Badge) as bactericides",
-                "Apply acibenzolar-S-methyl (Actigard) as systemic resistance inducer",
-                "Streptomycin may be used on transplants (check local regulations)"
-            ],
-            "organic": [
-                "Apply fixed copper sprays every 7-10 days",
-                "Use copper sulfate-based Bordeaux mixture",
-                "Apply Bacillus subtilis (Serenade) between copper applications",
-                "Hydrogen peroxide-based sanitizers as supplemental spray"
-            ],
-            "cultural": [
-                "Use certified disease-free seed and transplants",
-                "Hot water treat seed (122°F for 25 minutes) before planting",
-                "Practice 2-3 year crop rotation away from solanaceous crops",
-                "Use drip irrigation - AVOID overhead watering",
-                "Stake and prune plants for better air circulation",
-                "Do not work in fields when plants are wet",
-                "Sanitize tools with 10% bleach or 70% alcohol between plants",
-                "Remove and destroy severely infected plants"
-            ],
-            "biological": [
-                "Apply Bacillus subtilis or B. amyloliquefaciens products",
-                "Use bacteriophage products where commercially available",
-                "Apply Pseudomonas fluorescens as competitive colonizer"
-            ]
-        },
-        "prevention_tips": [
-            "Start with clean seed and transplants - this is the most critical step",
-            "Begin copper sprays at transplanting BEFORE symptoms appear",
-            "Never use overhead irrigation on tomatoes",
-            "Avoid working in fields when plants are wet"
-        ],
-        "severity": "High",
-        "spread_rate": "Very High in wet conditions"
+    "prevention_tips": [
+      "Use certified disease-free transplants",
+      "Maintain proper spacing for air circulation",
+      "Rotate planting areas every few years",
+      "Remove diseased plants promptly if symptoms appear"
+    ],
+    "severity": "None",
+    "spread_rate": "N/A"
+  },
+  "Tomato___Bacterial_spot": {
+    "disease_name": "Bacterial Spot",
+    "plant": "Tomato",
+    "scientific_name": "Xanthomonas vesicatoria / X. euvesicatoria / X. gardneri / X. perforans",
+    "type": "Bacterial",
+    "is_healthy": false,
+    "description": "Bacterial spot of tomato is caused by several Xanthomonas species. It causes leaf spots, fruit spots, and defoliation, and is extremely difficult to control once established, especially in warm, wet conditions.",
+    "symptoms": [
+      "Small, dark, water-soaked circular spots on leaves",
+      "Spots turn brown with yellow halos, may have greasy appearance",
+      "Severe defoliation leading to sunscalded fruit",
+      "Small, raised, scab-like spots on green fruit",
+      "Spots on fruit become brown and rough as fruit matures",
+      "Spots on stems and petioles"
+    ],
+    "causes": [
+      "Bacteria spread by rain splash, wind-driven rain, and contaminated tools",
+      "Infected seed is a primary source of contamination",
+      "Warm temperatures (75-86\u00b0F) with frequent rain or overhead irrigation",
+      "Volunteer plants and crop debris harbor bacteria"
+    ],
+    "remedies": {
+      "chemical": [
+        "Apply copper hydroxide + mancozeb tank mix weekly in wet weather",
+        "Use fixed copper products (Kocide, Badge) as bactericides",
+        "Apply acibenzolar-S-methyl (Actigard) as systemic resistance inducer",
+        "Streptomycin may be used on transplants (check local regulations)"
+      ],
+      "organic": [
+        "Apply fixed copper sprays every 7-10 days",
+        "Use copper sulfate-based Bordeaux mixture",
+        "Apply Bacillus subtilis (Serenade) between copper applications",
+        "Hydrogen peroxide-based sanitizers as supplemental spray"
+      ],
+      "cultural": [
+        "Use certified disease-free seed and transplants",
+        "Hot water treat seed (122\u00b0F for 25 minutes) before planting",
+        "Practice 2-3 year crop rotation away from solanaceous crops",
+        "Use drip irrigation - AVOID overhead watering",
+        "Stake and prune plants for better air circulation",
+        "Do not work in fields when plants are wet",
+        "Sanitize tools with 10% bleach or 70% alcohol between plants",
+        "Remove and destroy severely infected plants"
+      ],
+      "biological": [
+        "Apply Bacillus subtilis or B. amyloliquefaciens products",
+        "Use bacteriophage products where commercially available",
+        "Apply Pseudomonas fluorescens as competitive colonizer"
+      ]
     },
-
-    "Tomato___Early_blight": {
-        "disease_name": "Early Blight",
-        "plant": "Tomato",
-        "scientific_name": "Alternaria solani",
-        "type": "Fungal",
-        "is_healthy": false,
-        "description": "Early blight is one of the most common diseases of tomato. It causes distinctive target-shaped lesions on leaves, usually starting on older, lower leaves and progressing upward through the plant.",
-        "symptoms": [
-            "Dark brown circular lesions with concentric rings (target/bullseye pattern)",
-            "Lesions start on lower, older leaves first",
-            "Yellow halo around lesions",
-            "Progressive defoliation from bottom of plant upward",
-            "Dark, leathery, sunken spots on fruit at stem end",
-            "Dark cankers may appear on stems"
-        ],
-        "causes": [
-            "Fungus overwinters in infected plant debris and soil",
-            "Warm temperatures (75-85°F) with alternating wet and dry periods",
-            "Stressed or nutrient-deficient plants are more susceptible",
-            "Spores spread by wind, rain splash, and overhead irrigation"
-        ],
-        "remedies": {
-            "chemical": [
-                "Apply chlorothalonil (Daconil) every 7-10 days as protective spray",
-                "Use azoxystrobin (Quadris) for systemic protection",
-                "Apply mancozeb as economical protective fungicide",
-                "Use difenoconazole or penthiopyrad for advanced control",
-                "Rotate fungicides to prevent resistance development"
-            ],
-            "organic": [
-                "Apply copper-based fungicides every 7-10 days",
-                "Use Bacillus subtilis products (Serenade) as biofungicide",
-                "Spray neem oil every 7 days for prevention",
-                "Apply compost tea to boost plant immunity",
-                "Use potassium bicarbonate spray"
-            ],
-            "cultural": [
-                "Practice crop rotation - 3 year minimum away from solanaceous crops",
-                "Mulch heavily to prevent soil splash onto lower leaves",
-                "Remove lower leaves up to first fruit cluster as plants grow",
-                "Stake or cage plants to improve air circulation",
-                "Water at base of plants - avoid overhead irrigation",
-                "Remove and destroy infected plant debris",
-                "Ensure adequate balanced nutrition",
-                "Plant resistant varieties when available"
-            ],
-            "biological": [
-                "Apply Trichoderma harzianum to soil at planting",
-                "Use Bacillus amyloliquefaciens foliar sprays",
-                "Apply compost rich in beneficial microorganisms"
-            ]
-        },
-        "prevention_tips": [
-            "Mulching is extremely effective at reducing early blight",
-            "Remove lower leaves as the plant grows to reduce splash infection",
-            "Start fungicide program before symptoms appear",
-            "Maintain adequate nitrogen and calcium levels"
-        ],
-        "severity": "Moderate to High",
-        "spread_rate": "Moderate"
+    "prevention_tips": [
+      "Start with clean seed and transplants - this is the most critical step",
+      "Begin copper sprays at transplanting BEFORE symptoms appear",
+      "Never use overhead irrigation on tomatoes",
+      "Avoid working in fields when plants are wet"
+    ],
+    "severity": "High",
+    "spread_rate": "Very High in wet conditions"
+  },
+  "Tomato___Early_blight": {
+    "disease_name": "Early Blight",
+    "plant": "Tomato",
+    "scientific_name": "Alternaria solani",
+    "type": "Fungal",
+    "is_healthy": false,
+    "description": "Early blight is one of the most common diseases of tomato. It causes distinctive target-shaped lesions on leaves, usually starting on older, lower leaves and progressing upward through the plant.",
+    "symptoms": [
+      "Dark brown circular lesions with concentric rings (target/bullseye pattern)",
+      "Lesions start on lower, older leaves first",
+      "Yellow halo around lesions",
+      "Progressive defoliation from bottom of plant upward",
+      "Dark, leathery, sunken spots on fruit at stem end",
+      "Dark cankers may appear on stems"
+    ],
+    "causes": [
+      "Fungus overwinters in infected plant debris and soil",
+      "Warm temperatures (75-85\u00b0F) with alternating wet and dry periods",
+      "Stressed or nutrient-deficient plants are more susceptible",
+      "Spores spread by wind, rain splash, and overhead irrigation"
+    ],
+    "remedies": {
+      "chemical": [
+        "Apply chlorothalonil (Daconil) every 7-10 days as protective spray",
+        "Use azoxystrobin (Quadris) for systemic protection",
+        "Apply mancozeb as economical protective fungicide",
+        "Use difenoconazole or penthiopyrad for advanced control",
+        "Rotate fungicides to prevent resistance development"
+      ],
+      "organic": [
+        "Apply copper-based fungicides every 7-10 days",
+        "Use Bacillus subtilis products (Serenade) as biofungicide",
+        "Spray neem oil every 7 days for prevention",
+        "Apply compost tea to boost plant immunity",
+        "Use potassium bicarbonate spray"
+      ],
+      "cultural": [
+        "Practice crop rotation - 3 year minimum away from solanaceous crops",
+        "Mulch heavily to prevent soil splash onto lower leaves",
+        "Remove lower leaves up to first fruit cluster as plants grow",
+        "Stake or cage plants to improve air circulation",
+        "Water at base of plants - avoid overhead irrigation",
+        "Remove and destroy infected plant debris",
+        "Ensure adequate balanced nutrition",
+        "Plant resistant varieties when available"
+      ],
+      "biological": [
+        "Apply Trichoderma harzianum to soil at planting",
+        "Use Bacillus amyloliquefaciens foliar sprays",
+        "Apply compost rich in beneficial microorganisms"
+      ]
     },
-
-    "Tomato___Late_blight": {
-        "disease_name": "Late Blight",
-        "plant": "Tomato",
-        "scientific_name": "Phytophthora infestans",
-        "type": "Oomycete (water mold)",
-        "is_healthy": false,
-        "description": "Late blight is one of the most destructive diseases of tomato, caused by the same pathogen responsible for the Irish Potato Famine. It can destroy entire plantings within days under favorable conditions.",
-        "symptoms": [
-            "Large, irregular, water-soaked grayish-green spots on leaves",
-            "White fuzzy mold growth on underside of leaves in humid weather",
-            "Lesions turn dark brown to black rapidly",
-            "Greasy-looking dark spots on stems",
-            "Firm, dark brown rot on fruit with rough, greasy appearance",
-            "Entire plants can collapse and die within days"
-        ],
-        "causes": [
-            "Thrives in cool (50-70°F), wet conditions",
-            "Sporangia spread rapidly by wind over long distances",
-            "Infected transplants, volunteer plants, and nearby potato fields",
-            "Prolonged periods of wet foliage and high humidity"
-        ],
-        "remedies": {
-            "chemical": [
-                "Apply chlorothalonil as protective fungicide BEFORE infection",
-                "Use mefenoxam/metalaxyl + mancozeb for systemic protection",
-                "Apply cymoxanil for curative action (effective within 2 days of infection)",
-                "Use mandipropamid or fluopicolide for resistant strains",
-                "Spray every 5-7 days during high-risk weather conditions"
-            ],
-            "organic": [
-                "Apply copper hydroxide at maximum labeled rate every 5-7 days",
-                "Use Bacillus subtilis between copper applications",
-                "Apply copper sulfate (Bordeaux mixture) as heavy-duty spray",
-                "Potassium bicarbonate as supplemental treatment"
-            ],
-            "cultural": [
-                "Remove and DESTROY (not compost) all infected plants immediately",
-                "Do not plant near potato fields",
-                "Ensure good air circulation through proper spacing and staking",
-                "Water at base only - never overhead irrigate",
-                "Plant resistant varieties (Mountain Magic, Defiant PHR, Iron Lady)",
-                "Use row covers or high tunnels to keep foliage dry",
-                "Kill plants before composting at end of season",
-                "Monitor late blight forecasting systems"
-            ],
-            "biological": [
-                "Limited biological control effectiveness for this aggressive pathogen",
-                "Bacillus-based products provide supplemental protection only",
-                "Must be used in combination with other methods"
-            ]
-        },
-        "prevention_tips": [
-            "THIS IS AN EMERGENCY DISEASE - remove infected plants IMMEDIATELY",
-            "Monitor late blight alerts from your local extension service",
-            "Start preventive fungicides when late blight is reported in your area",
-            "NEVER compost late blight-infected plant material"
-        ],
-        "severity": "Critical",
-        "spread_rate": "Extremely High"
+    "prevention_tips": [
+      "Mulching is extremely effective at reducing early blight",
+      "Remove lower leaves as the plant grows to reduce splash infection",
+      "Start fungicide program before symptoms appear",
+      "Maintain adequate nitrogen and calcium levels"
+    ],
+    "severity": "Moderate to High",
+    "spread_rate": "Moderate"
+  },
+  "Tomato___Late_blight": {
+    "disease_name": "Late Blight",
+    "plant": "Tomato",
+    "scientific_name": "Phytophthora infestans",
+    "type": "Oomycete (water mold)",
+    "is_healthy": false,
+    "description": "Late blight is one of the most destructive diseases of tomato, caused by the same pathogen responsible for the Irish Potato Famine. It can destroy entire plantings within days under favorable conditions.",
+    "symptoms": [
+      "Large, irregular, water-soaked grayish-green spots on leaves",
+      "White fuzzy mold growth on underside of leaves in humid weather",
+      "Lesions turn dark brown to black rapidly",
+      "Greasy-looking dark spots on stems",
+      "Firm, dark brown rot on fruit with rough, greasy appearance",
+      "Entire plants can collapse and die within days"
+    ],
+    "causes": [
+      "Thrives in cool (50-70\u00b0F), wet conditions",
+      "Sporangia spread rapidly by wind over long distances",
+      "Infected transplants, volunteer plants, and nearby potato fields",
+      "Prolonged periods of wet foliage and high humidity"
+    ],
+    "remedies": {
+      "chemical": [
+        "Apply chlorothalonil as protective fungicide BEFORE infection",
+        "Use mefenoxam/metalaxyl + mancozeb for systemic protection",
+        "Apply cymoxanil for curative action (effective within 2 days of infection)",
+        "Use mandipropamid or fluopicolide for resistant strains",
+        "Spray every 5-7 days during high-risk weather conditions"
+      ],
+      "organic": [
+        "Apply copper hydroxide at maximum labeled rate every 5-7 days",
+        "Use Bacillus subtilis between copper applications",
+        "Apply copper sulfate (Bordeaux mixture) as heavy-duty spray",
+        "Potassium bicarbonate as supplemental treatment"
+      ],
+      "cultural": [
+        "Remove and DESTROY (not compost) all infected plants immediately",
+        "Do not plant near potato fields",
+        "Ensure good air circulation through proper spacing and staking",
+        "Water at base only - never overhead irrigate",
+        "Plant resistant varieties (Mountain Magic, Defiant PHR, Iron Lady)",
+        "Use row covers or high tunnels to keep foliage dry",
+        "Kill plants before composting at end of season",
+        "Monitor late blight forecasting systems"
+      ],
+      "biological": [
+        "Limited biological control effectiveness for this aggressive pathogen",
+        "Bacillus-based products provide supplemental protection only",
+        "Must be used in combination with other methods"
+      ]
     },
-
-    "Tomato___Leaf_Mold": {
-        "disease_name": "Leaf Mold",
-        "plant": "Tomato",
-        "scientific_name": "Passalora fulva (formerly Fulvia fulva / Cladosporium fulvum)",
-        "type": "Fungal",
-        "is_healthy": false,
-        "description": "Leaf mold is a fungal disease primarily affecting greenhouse and high-tunnel tomatoes. It causes pale green to yellowish spots on upper leaf surfaces with olive-green to brown velvety mold on the undersides.",
-        "symptoms": [
-            "Pale green to yellowish irregular spots on upper leaf surface",
-            "Olive-green to grayish-brown velvety mold growth on leaf undersides",
-            "Infected leaves curl, wither, and drop",
-            "Progresses from lower to upper leaves",
-            "Rarely affects fruit but can cause blossom drop",
-            "Plants in enclosed structures are most severely affected"
-        ],
-        "causes": [
-            "High relative humidity (above 85%) with moderate temperatures",
-            "Poor air circulation in greenhouses and high tunnels",
-            "Spores persist in greenhouse structures for years",
-            "Overcrowded planting with poor ventilation"
-        ],
-        "remedies": {
-            "chemical": [
-                "Apply chlorothalonil as protective fungicide",
-                "Use mancozeb as economical preventive spray",
-                "Apply azoxystrobin for systemic control",
-                "Use penthiopyrad or difenoconazole for active infections"
-            ],
-            "organic": [
-                "Apply copper-based fungicides every 7-10 days",
-                "Use potassium bicarbonate spray",
-                "Apply neem oil spray weekly",
-                "Use sulfur-based fungicides (avoid in hot weather)"
-            ],
-            "cultural": [
-                "Increase ventilation in greenhouses - this is the most critical step",
-                "Use fans to improve air circulation around plants",
-                "Reduce humidity by venting and heating",
-                "Space plants adequately and prune lower leaves",
-                "Avoid leaf wetness - water at base of plants early in day",
-                "Remove infected leaves promptly",
-                "Plant leaf mold resistant varieties for greenhouse production",
-                "Sanitize greenhouse between crops",
-                "Avoid overhead irrigation"
-            ],
-            "biological": [
-                "Apply Bacillus subtilis-based products",
-                "Use Trichoderma-based biofungicides",
-                "Apply beneficial bacteria to create competitive environment on leaf surfaces"
-            ]
-        },
-        "prevention_tips": [
-            "Ventilation management is the key to preventing leaf mold",
-            "Keep relative humidity below 85% in enclosed structures",
-            "Plant resistant varieties for greenhouse/high tunnel production",
-            "Remove and destroy infected foliage promptly"
-        ],
-        "severity": "Moderate",
-        "spread_rate": "Moderate to High in enclosed spaces"
+    "prevention_tips": [
+      "THIS IS AN EMERGENCY DISEASE - remove infected plants IMMEDIATELY",
+      "Monitor late blight alerts from your local extension service",
+      "Start preventive fungicides when late blight is reported in your area",
+      "NEVER compost late blight-infected plant material"
+    ],
+    "severity": "Critical",
+    "spread_rate": "Extremely High"
+  },
+  "Tomato___Leaf_Mold": {
+    "disease_name": "Leaf Mold",
+    "plant": "Tomato",
+    "scientific_name": "Passalora fulva (formerly Fulvia fulva / Cladosporium fulvum)",
+    "type": "Fungal",
+    "is_healthy": false,
+    "description": "Leaf mold is a fungal disease primarily affecting greenhouse and high-tunnel tomatoes. It causes pale green to yellowish spots on upper leaf surfaces with olive-green to brown velvety mold on the undersides.",
+    "symptoms": [
+      "Pale green to yellowish irregular spots on upper leaf surface",
+      "Olive-green to grayish-brown velvety mold growth on leaf undersides",
+      "Infected leaves curl, wither, and drop",
+      "Progresses from lower to upper leaves",
+      "Rarely affects fruit but can cause blossom drop",
+      "Plants in enclosed structures are most severely affected"
+    ],
+    "causes": [
+      "High relative humidity (above 85%) with moderate temperatures",
+      "Poor air circulation in greenhouses and high tunnels",
+      "Spores persist in greenhouse structures for years",
+      "Overcrowded planting with poor ventilation"
+    ],
+    "remedies": {
+      "chemical": [
+        "Apply chlorothalonil as protective fungicide",
+        "Use mancozeb as economical preventive spray",
+        "Apply azoxystrobin for systemic control",
+        "Use penthiopyrad or difenoconazole for active infections"
+      ],
+      "organic": [
+        "Apply copper-based fungicides every 7-10 days",
+        "Use potassium bicarbonate spray",
+        "Apply neem oil spray weekly",
+        "Use sulfur-based fungicides (avoid in hot weather)"
+      ],
+      "cultural": [
+        "Increase ventilation in greenhouses - this is the most critical step",
+        "Use fans to improve air circulation around plants",
+        "Reduce humidity by venting and heating",
+        "Space plants adequately and prune lower leaves",
+        "Avoid leaf wetness - water at base of plants early in day",
+        "Remove infected leaves promptly",
+        "Plant leaf mold resistant varieties for greenhouse production",
+        "Sanitize greenhouse between crops",
+        "Avoid overhead irrigation"
+      ],
+      "biological": [
+        "Apply Bacillus subtilis-based products",
+        "Use Trichoderma-based biofungicides",
+        "Apply beneficial bacteria to create competitive environment on leaf surfaces"
+      ]
     },
-
-    "Tomato___Septoria_leaf_spot": {
-        "disease_name": "Septoria Leaf Spot",
-        "plant": "Tomato",
-        "scientific_name": "Septoria lycopersici",
-        "type": "Fungal",
-        "is_healthy": false,
-        "description": "Septoria leaf spot is one of the most common and destructive diseases of tomato foliage. It causes many small, circular spots with dark borders and gray centers, leading to severe defoliation.",
-        "symptoms": [
-            "Numerous small (1/8 inch) circular spots on leaves",
-            "Spots have dark brown borders with grayish-white centers",
-            "Tiny black dots (pycnidia) visible in center of spots under magnification",
-            "First appears on lower, older leaves",
-            "Severe cases cause extensive defoliation",
-            "Rarely affects fruit directly but defoliation leads to sunscald"
-        ],
-        "causes": [
-            "Fungus survives in infected tomato debris in soil",
-            "Spores spread by rain splash, overhead irrigation, and tools",
-            "Warm temperatures (68-77°F) with wet, humid conditions",
-            "Continuous tomato planting without rotation"
-        ],
-        "remedies": {
-            "chemical": [
-                "Apply chlorothalonil at first sign of disease, repeat every 7-10 days",
-                "Use mancozeb as protective fungicide during wet periods",
-                "Apply azoxystrobin for systemic control",
-                "Use copper-based fungicides as alternative protective treatment",
-                "Rotate fungicide classes to prevent resistance"
-            ],
-            "organic": [
-                "Apply copper hydroxide or copper sulfate every 7-10 days",
-                "Use Bacillus subtilis products (Serenade) as biofungicide",
-                "Spray neem oil every 7 days",
-                "Apply potassium bicarbonate solution weekly"
-            ],
-            "cultural": [
-                "Rotate crops - 3 year minimum without solanaceous crops",
-                "Mulch heavily to prevent rain splash from soil to lower leaves",
-                "Remove lower leaves up to first fruit cluster",
-                "Stake and prune plants for maximum air circulation",
-                "Use drip irrigation - never overhead water",
-                "Remove and destroy infected leaves immediately",
-                "Clean up all tomato debris at end of season",
-                "Sanitize stakes and cages between seasons"
-            ],
-            "biological": [
-                "Apply Trichoderma harzianum to soil to break down infected debris",
-                "Use Bacillus amyloliquefaciens foliar sprays",
-                "Apply compost to promote beneficial soil microorganisms"
-            ]
-        },
-        "prevention_tips": [
-            "Mulching is the single most effective cultural control",
-            "Start removing lower leaves as soon as first fruit sets",
-            "Begin fungicide sprays before symptoms appear during wet weather",
-            "Combine cultural practices with fungicide program for best results"
-        ],
-        "severity": "High",
-        "spread_rate": "High"
+    "prevention_tips": [
+      "Ventilation management is the key to preventing leaf mold",
+      "Keep relative humidity below 85% in enclosed structures",
+      "Plant resistant varieties for greenhouse/high tunnel production",
+      "Remove and destroy infected foliage promptly"
+    ],
+    "severity": "Moderate",
+    "spread_rate": "Moderate to High in enclosed spaces"
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "disease_name": "Septoria Leaf Spot",
+    "plant": "Tomato",
+    "scientific_name": "Septoria lycopersici",
+    "type": "Fungal",
+    "is_healthy": false,
+    "description": "Septoria leaf spot is one of the most common and destructive diseases of tomato foliage. It causes many small, circular spots with dark borders and gray centers, leading to severe defoliation.",
+    "symptoms": [
+      "Numerous small (1/8 inch) circular spots on leaves",
+      "Spots have dark brown borders with grayish-white centers",
+      "Tiny black dots (pycnidia) visible in center of spots under magnification",
+      "First appears on lower, older leaves",
+      "Severe cases cause extensive defoliation",
+      "Rarely affects fruit directly but defoliation leads to sunscald"
+    ],
+    "causes": [
+      "Fungus survives in infected tomato debris in soil",
+      "Spores spread by rain splash, overhead irrigation, and tools",
+      "Warm temperatures (68-77\u00b0F) with wet, humid conditions",
+      "Continuous tomato planting without rotation"
+    ],
+    "remedies": {
+      "chemical": [
+        "Apply chlorothalonil at first sign of disease, repeat every 7-10 days",
+        "Use mancozeb as protective fungicide during wet periods",
+        "Apply azoxystrobin for systemic control",
+        "Use copper-based fungicides as alternative protective treatment",
+        "Rotate fungicide classes to prevent resistance"
+      ],
+      "organic": [
+        "Apply copper hydroxide or copper sulfate every 7-10 days",
+        "Use Bacillus subtilis products (Serenade) as biofungicide",
+        "Spray neem oil every 7 days",
+        "Apply potassium bicarbonate solution weekly"
+      ],
+      "cultural": [
+        "Rotate crops - 3 year minimum without solanaceous crops",
+        "Mulch heavily to prevent rain splash from soil to lower leaves",
+        "Remove lower leaves up to first fruit cluster",
+        "Stake and prune plants for maximum air circulation",
+        "Use drip irrigation - never overhead water",
+        "Remove and destroy infected leaves immediately",
+        "Clean up all tomato debris at end of season",
+        "Sanitize stakes and cages between seasons"
+      ],
+      "biological": [
+        "Apply Trichoderma harzianum to soil to break down infected debris",
+        "Use Bacillus amyloliquefaciens foliar sprays",
+        "Apply compost to promote beneficial soil microorganisms"
+      ]
     },
-
-    "Tomato___Spider_mites Two-spotted_spider_mite": {
-        "disease_name": "Spider Mite Infestation (Two-spotted Spider Mite)",
-        "plant": "Tomato",
-        "scientific_name": "Tetranychus urticae",
-        "type": "Pest (Arachnid)",
-        "is_healthy": false,
-        "description": "Two-spotted spider mites are tiny arachnid pests that feed on tomato leaves by piercing cells and sucking contents. They cause stippling, yellowing, and bronzing of leaves. Severe infestations can kill plants, especially in hot, dry conditions.",
-        "symptoms": [
-            "Fine yellow stippling dots on upper leaf surface",
-            "Leaves turn yellow, bronze, and eventually brown",
-            "Fine silken webbing on undersides of leaves and between stems",
-            "Tiny (0.5mm) yellowish-green mites with two dark spots on body",
-            "Mites and eggs visible on leaf undersides with hand lens",
-            "Leaf drop and plant decline in severe infestations"
-        ],
-        "causes": [
-            "Hot, dry, dusty conditions favor rapid reproduction",
-            "Overuse of broad-spectrum insecticides kills natural predators",
-            "Drought-stressed plants are more attractive to mites",
-            "Mites reproduce very rapidly - population doubles every few days"
-        ],
-        "remedies": {
-            "chemical": [
-                "Apply miticide (abamectin, spiromesifen) - regular insecticides are NOT effective",
-                "Use bifenazate (Acramite) for quick knockdown of mites",
-                "Apply spiromesifen (Oberon) for long-lasting control",
-                "Rotate miticide classes to prevent resistance",
-                "Avoid broad-spectrum insecticides that kill predatory mites"
-            ],
-            "organic": [
-                "Spray insecticidal soap (potassium salts of fatty acids) - thorough coverage needed",
-                "Apply neem oil spray every 5-7 days, covering all leaf surfaces",
-                "Use horticultural oil (1-2%) to smother mites and eggs",
-                "Spray rosemary oil-based miticides",
-                "Apply pyrethrin sprays for quick knockdown (use sparingly)"
-            ],
-            "cultural": [
-                "Increase humidity around plants through misting or irrigation",
-                "Avoid water stress - keep plants well-watered",
-                "Knock mites off plants with strong water spray",
-                "Remove heavily infested leaves and destroy them",
-                "Keep area free of weeds that can harbor mites",
-                "Reduce dusty conditions near plants",
-                "Avoid excessive nitrogen which produces succulent growth mites prefer"
-            ],
-            "biological": [
-                "Release predatory mites (Phytoseiulus persimilis) - most effective biocontrol",
-                "Use Neoseiulus californicus predatory mites for prevention",
-                "Release minute pirate bugs (Orius spp.) as generalist predators",
-                "Encourage ladybugs and lacewings which also feed on mites",
-                "Apply Beauveria bassiana entomopathogenic fungus"
-            ]
-        },
-        "prevention_tips": [
-            "Scout regularly by checking leaf undersides with hand lens",
-            "Avoid broad-spectrum insecticides that eliminate natural enemies",
-            "Keep plants well-watered to reduce stress",
-            "Release predatory mites preventively in greenhouses",
-            "Treat early - mite populations explode rapidly"
-        ],
-        "severity": "Moderate to High",
-        "spread_rate": "Very High in hot, dry conditions"
+    "prevention_tips": [
+      "Mulching is the single most effective cultural control",
+      "Start removing lower leaves as soon as first fruit sets",
+      "Begin fungicide sprays before symptoms appear during wet weather",
+      "Combine cultural practices with fungicide program for best results"
+    ],
+    "severity": "High",
+    "spread_rate": "High"
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "disease_name": "Spider Mite Infestation (Two-spotted Spider Mite)",
+    "plant": "Tomato",
+    "scientific_name": "Tetranychus urticae",
+    "type": "Pest (Arachnid)",
+    "is_healthy": false,
+    "description": "Two-spotted spider mites are tiny arachnid pests that feed on tomato leaves by piercing cells and sucking contents. They cause stippling, yellowing, and bronzing of leaves. Severe infestations can kill plants, especially in hot, dry conditions.",
+    "symptoms": [
+      "Fine yellow stippling dots on upper leaf surface",
+      "Leaves turn yellow, bronze, and eventually brown",
+      "Fine silken webbing on undersides of leaves and between stems",
+      "Tiny (0.5mm) yellowish-green mites with two dark spots on body",
+      "Mites and eggs visible on leaf undersides with hand lens",
+      "Leaf drop and plant decline in severe infestations"
+    ],
+    "causes": [
+      "Hot, dry, dusty conditions favor rapid reproduction",
+      "Overuse of broad-spectrum insecticides kills natural predators",
+      "Drought-stressed plants are more attractive to mites",
+      "Mites reproduce very rapidly - population doubles every few days"
+    ],
+    "remedies": {
+      "chemical": [
+        "Apply miticide (abamectin, spiromesifen) - regular insecticides are NOT effective",
+        "Use bifenazate (Acramite) for quick knockdown of mites",
+        "Apply spiromesifen (Oberon) for long-lasting control",
+        "Rotate miticide classes to prevent resistance",
+        "Avoid broad-spectrum insecticides that kill predatory mites"
+      ],
+      "organic": [
+        "Spray insecticidal soap (potassium salts of fatty acids) - thorough coverage needed",
+        "Apply neem oil spray every 5-7 days, covering all leaf surfaces",
+        "Use horticultural oil (1-2%) to smother mites and eggs",
+        "Spray rosemary oil-based miticides",
+        "Apply pyrethrin sprays for quick knockdown (use sparingly)"
+      ],
+      "cultural": [
+        "Increase humidity around plants through misting or irrigation",
+        "Avoid water stress - keep plants well-watered",
+        "Knock mites off plants with strong water spray",
+        "Remove heavily infested leaves and destroy them",
+        "Keep area free of weeds that can harbor mites",
+        "Reduce dusty conditions near plants",
+        "Avoid excessive nitrogen which produces succulent growth mites prefer"
+      ],
+      "biological": [
+        "Release predatory mites (Phytoseiulus persimilis) - most effective biocontrol",
+        "Use Neoseiulus californicus predatory mites for prevention",
+        "Release minute pirate bugs (Orius spp.) as generalist predators",
+        "Encourage ladybugs and lacewings which also feed on mites",
+        "Apply Beauveria bassiana entomopathogenic fungus"
+      ]
     },
-
-    "Tomato___Target_Spot": {
-        "disease_name": "Target Spot",
-        "plant": "Tomato",
-        "scientific_name": "Corynespora cassiicola",
-        "type": "Fungal",
-        "is_healthy": false,
-        "description": "Target spot is a fungal disease causing distinctive target-like concentric ring lesions on tomato leaves, stems, and fruit. It has become increasingly important in warm, humid tomato-growing regions.",
-        "symptoms": [
-            "Small, dark brown circular spots with concentric rings on leaves",
-            "Spots may have yellowish halo",
-            "Lesions start on lower leaves and progress upward",
-            "Large irregular spots can form on fruit with dark borders",
-            "Defoliation in severe cases",
-            "Dark spots on stems"
-        ],
-        "causes": [
-            "Fungus survives in infected plant debris and soil",
-            "Warm temperatures (68-86°F) with high humidity and rainfall",
-            "Dense canopy with poor air circulation",
-            "Prolonged leaf wetness promotes infection"
-        ],
-        "remedies": {
-            "chemical": [
-                "Apply chlorothalonil as protective fungicide every 7-10 days",
-                "Use azoxystrobin for systemic control",
-                "Apply boscalid + pyraclostrobin for enhanced protection",
-                "Use difenoconazole for active infections",
-                "Rotate fungicides to prevent resistance"
-            ],
-            "organic": [
-                "Apply copper-based fungicides every 7-10 days",
-                "Use Bacillus subtilis-based biofungicides",
-                "Spray neem oil as supplemental treatment",
-                "Apply potassium bicarbonate spray"
-            ],
-            "cultural": [
-                "Remove lower leaves to improve air circulation",
-                "Stake and prune plants for open canopy structure",
-                "Use drip irrigation - avoid overhead watering",
-                "Rotate crops for at least 2-3 years",
-                "Remove and destroy infected plant debris",
-                "Mulch to reduce soil splash onto plants",
-                "Ensure adequate spacing between plants"
-            ],
-            "biological": [
-                "Apply Trichoderma-based products to soil",
-                "Use Bacillus-based foliar sprays",
-                "Encourage beneficial soil microbiome through compost application"
-            ]
-        },
-        "prevention_tips": [
-            "Maintain open canopy through proper pruning and staking",
-            "Start fungicide program before wet weather periods",
-            "Remove lower leaves as plants grow",
-            "Good sanitation and crop rotation are essential"
-        ],
-        "severity": "Moderate to High",
-        "spread_rate": "Moderate"
+    "prevention_tips": [
+      "Scout regularly by checking leaf undersides with hand lens",
+      "Avoid broad-spectrum insecticides that eliminate natural enemies",
+      "Keep plants well-watered to reduce stress",
+      "Release predatory mites preventively in greenhouses",
+      "Treat early - mite populations explode rapidly"
+    ],
+    "severity": "Moderate to High",
+    "spread_rate": "Very High in hot, dry conditions"
+  },
+  "Tomato___Target_Spot": {
+    "disease_name": "Target Spot",
+    "plant": "Tomato",
+    "scientific_name": "Corynespora cassiicola",
+    "type": "Fungal",
+    "is_healthy": false,
+    "description": "Target spot is a fungal disease causing distinctive target-like concentric ring lesions on tomato leaves, stems, and fruit. It has become increasingly important in warm, humid tomato-growing regions.",
+    "symptoms": [
+      "Small, dark brown circular spots with concentric rings on leaves",
+      "Spots may have yellowish halo",
+      "Lesions start on lower leaves and progress upward",
+      "Large irregular spots can form on fruit with dark borders",
+      "Defoliation in severe cases",
+      "Dark spots on stems"
+    ],
+    "causes": [
+      "Fungus survives in infected plant debris and soil",
+      "Warm temperatures (68-86\u00b0F) with high humidity and rainfall",
+      "Dense canopy with poor air circulation",
+      "Prolonged leaf wetness promotes infection"
+    ],
+    "remedies": {
+      "chemical": [
+        "Apply chlorothalonil as protective fungicide every 7-10 days",
+        "Use azoxystrobin for systemic control",
+        "Apply boscalid + pyraclostrobin for enhanced protection",
+        "Use difenoconazole for active infections",
+        "Rotate fungicides to prevent resistance"
+      ],
+      "organic": [
+        "Apply copper-based fungicides every 7-10 days",
+        "Use Bacillus subtilis-based biofungicides",
+        "Spray neem oil as supplemental treatment",
+        "Apply potassium bicarbonate spray"
+      ],
+      "cultural": [
+        "Remove lower leaves to improve air circulation",
+        "Stake and prune plants for open canopy structure",
+        "Use drip irrigation - avoid overhead watering",
+        "Rotate crops for at least 2-3 years",
+        "Remove and destroy infected plant debris",
+        "Mulch to reduce soil splash onto plants",
+        "Ensure adequate spacing between plants"
+      ],
+      "biological": [
+        "Apply Trichoderma-based products to soil",
+        "Use Bacillus-based foliar sprays",
+        "Encourage beneficial soil microbiome through compost application"
+      ]
     },
-
-    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
-        "disease_name": "Tomato Yellow Leaf Curl Virus (TYLCV)",
-        "plant": "Tomato",
-        "scientific_name": "Tomato yellow leaf curl virus (Begomovirus)",
-        "type": "Viral",
-        "is_healthy": false,
-        "description": "TYLCV is one of the most devastating viral diseases of tomato worldwide. It is transmitted by whiteflies (Bemisia tabaci) and causes severe stunting, leaf curling, and yellowing, with complete crop loss in severe cases.",
-        "symptoms": [
-            "Severe upward curling and cupping of leaves",
-            "Yellowing of leaf margins and interveinal areas",
-            "Stunted, bushy plant growth",
-            "Flower drop and drastically reduced fruit set",
-            "Small, pale fruit if any are produced",
-            "Plants infected early produce no marketable fruit"
-        ],
-        "causes": [
-            "Virus transmitted by whiteflies (Bemisia tabaci, B biotype)",
-            "Whiteflies acquire virus from infected plants and transmit to healthy ones",
-            "Virus is NOT seed-transmitted or mechanically transmitted",
-            "Warm temperatures favor whitefly reproduction and virus spread"
-        ],
-        "remedies": {
-            "chemical": [
-                "Apply systemic insecticides (imidacloprid, thiamethoxam) at transplanting for whitefly control",
-                "Use spiromesifen or cyantraniliprole for whitefly nymph control",
-                "Apply pyriproxyfen (insect growth regulator) to break whitefly life cycle",
-                "Alternate insecticide classes to prevent resistance",
-                "NO CHEMICAL TREATMENT EXISTS FOR THE VIRUS ITSELF"
-            ],
-            "organic": [
-                "Apply insecticidal soap for whitefly control",
-                "Use neem oil spray every 5-7 days to deter whiteflies",
-                "Apply horticultural oil to smother whitefly eggs and nymphs",
-                "Use yellow sticky traps to monitor and reduce whitefly populations",
-                "Spray kaolin clay particle film to deter whitefly feeding"
-            ],
-            "cultural": [
-                "Plant TYLCV-resistant varieties (Tygress, Shanty, many modern hybrids)",
-                "Use reflective silver mulch to repel whiteflies",
-                "Install fine-mesh insect exclusion screens on greenhouses",
-                "Remove and destroy infected plants immediately upon detection",
-                "Maintain a host-free period between tomato crops",
-                "Remove weeds that can harbor whiteflies and virus",
-                "Transplant healthy seedlings raised under insect-proof screens",
-                "Avoid planting new tomato crops adjacent to old, infected fields"
-            ],
-            "biological": [
-                "Release Encarsia formosa parasitic wasp for whitefly control in greenhouses",
-                "Use Eretmocerus eremicus for biological control of whiteflies",
-                "Apply Beauveria bassiana entomopathogenic fungus against whiteflies",
-                "Encourage natural predators (lacewings, ladybugs, predatory bugs)"
-            ]
-        },
-        "prevention_tips": [
-            "THERE IS NO CURE FOR VIRUS-INFECTED PLANTS - prevention is everything",
-            "Whitefly management is the key to preventing TYLCV",
-            "Plant resistant varieties whenever available",
-            "Use insect-proof screenhouses for seedling production",
-            "Remove and destroy infected plants as soon as symptoms appear"
-        ],
-        "severity": "Critical",
-        "spread_rate": "Very High (via whitefly vector)"
+    "prevention_tips": [
+      "Maintain open canopy through proper pruning and staking",
+      "Start fungicide program before wet weather periods",
+      "Remove lower leaves as plants grow",
+      "Good sanitation and crop rotation are essential"
+    ],
+    "severity": "Moderate to High",
+    "spread_rate": "Moderate"
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "disease_name": "Tomato Yellow Leaf Curl Virus (TYLCV)",
+    "plant": "Tomato",
+    "scientific_name": "Tomato yellow leaf curl virus (Begomovirus)",
+    "type": "Viral",
+    "is_healthy": false,
+    "description": "TYLCV is one of the most devastating viral diseases of tomato worldwide. It is transmitted by whiteflies (Bemisia tabaci) and causes severe stunting, leaf curling, and yellowing, with complete crop loss in severe cases.",
+    "symptoms": [
+      "Severe upward curling and cupping of leaves",
+      "Yellowing of leaf margins and interveinal areas",
+      "Stunted, bushy plant growth",
+      "Flower drop and drastically reduced fruit set",
+      "Small, pale fruit if any are produced",
+      "Plants infected early produce no marketable fruit"
+    ],
+    "causes": [
+      "Virus transmitted by whiteflies (Bemisia tabaci, B biotype)",
+      "Whiteflies acquire virus from infected plants and transmit to healthy ones",
+      "Virus is NOT seed-transmitted or mechanically transmitted",
+      "Warm temperatures favor whitefly reproduction and virus spread"
+    ],
+    "remedies": {
+      "chemical": [
+        "Apply systemic insecticides (imidacloprid, thiamethoxam) at transplanting for whitefly control",
+        "Use spiromesifen or cyantraniliprole for whitefly nymph control",
+        "Apply pyriproxyfen (insect growth regulator) to break whitefly life cycle",
+        "Alternate insecticide classes to prevent resistance",
+        "NO CHEMICAL TREATMENT EXISTS FOR THE VIRUS ITSELF"
+      ],
+      "organic": [
+        "Apply insecticidal soap for whitefly control",
+        "Use neem oil spray every 5-7 days to deter whiteflies",
+        "Apply horticultural oil to smother whitefly eggs and nymphs",
+        "Use yellow sticky traps to monitor and reduce whitefly populations",
+        "Spray kaolin clay particle film to deter whitefly feeding"
+      ],
+      "cultural": [
+        "Plant TYLCV-resistant varieties (Tygress, Shanty, many modern hybrids)",
+        "Use reflective silver mulch to repel whiteflies",
+        "Install fine-mesh insect exclusion screens on greenhouses",
+        "Remove and destroy infected plants immediately upon detection",
+        "Maintain a host-free period between tomato crops",
+        "Remove weeds that can harbor whiteflies and virus",
+        "Transplant healthy seedlings raised under insect-proof screens",
+        "Avoid planting new tomato crops adjacent to old, infected fields"
+      ],
+      "biological": [
+        "Release Encarsia formosa parasitic wasp for whitefly control in greenhouses",
+        "Use Eretmocerus eremicus for biological control of whiteflies",
+        "Apply Beauveria bassiana entomopathogenic fungus against whiteflies",
+        "Encourage natural predators (lacewings, ladybugs, predatory bugs)"
+      ]
     },
-
-    "Tomato___Tomato_mosaic_virus": {
-        "disease_name": "Tomato Mosaic Virus (ToMV)",
-        "plant": "Tomato",
-        "scientific_name": "Tomato mosaic virus (Tobamovirus)",
-        "type": "Viral",
-        "is_healthy": false,
-        "description": "Tomato mosaic virus is a highly stable and contagious viral disease that causes mottled light and dark green patterns on leaves. Unlike many plant viruses, it is easily transmitted mechanically through contaminated hands, tools, and seed.",
-        "symptoms": [
-            "Mosaic pattern of light and dark green patches on leaves",
-            "Leaf curling and distortion (fernleaf symptoms)",
-            "Stunted plant growth",
-            "Reduced fruit size and yield",
-            "Yellow mottling or brown spots on fruit (internal browning)",
-            "Plants may show symptoms intermittently depending on temperature"
-        ],
-        "causes": [
-            "Virus is highly stable and can persist on surfaces for years",
-            "Transmitted mechanically through contaminated hands, tools, clothing",
-            "Can be seed-borne (survives on seed coat)",
-            "Tobacco products (cigarettes) can carry related tobacco mosaic virus",
-            "NOT transmitted by insects"
-        ],
-        "remedies": {
-            "chemical": [
-                "NO CHEMICAL TREATMENT EXISTS FOR VIRAL INFECTIONS",
-                "Disinfect tools with 20% bleach solution or 1% sodium hypochlorite",
-                "Dip hands in milk before handling plants (milk protein inactivates virus)",
-                "Use trisodium phosphate (TSP) solution to clean tools and surfaces"
-            ],
-            "organic": [
-                "Apply milk spray (20% milk solution) to plants - casein protein inhibits virus",
-                "No effective organic treatment for established infections",
-                "Focus on prevention through sanitation"
-            ],
-            "cultural": [
-                "Remove and destroy infected plants immediately",
-                "Wash hands thoroughly with soap before and after handling plants",
-                "Disinfect all tools, stakes, trays between use",
-                "Use certified virus-free seed or treat seed with 10% TSP for 30 minutes",
-                "Do not smoke or use tobacco products near tomato plants",
-                "Plant resistant varieties with Tm-2 or Tm-2(2) resistance genes",
-                "Start with virus-free transplants from reputable sources",
-                "Do not touch healthy plants after handling infected ones",
-                "Change clothing after working with infected plants"
-            ],
-            "biological": [
-                "Cross-protection using mild virus strains (commercial technique)",
-                "No practical biological control for home gardeners"
-            ]
-        },
-        "prevention_tips": [
-            "SANITATION IS THE MOST IMPORTANT CONTROL MEASURE",
-            "Plant resistant varieties - Tm-2 gene provides excellent resistance",
-            "Wash hands and disinfect tools constantly",
-            "This virus is extremely stable - it survives on surfaces for years",
-            "Do not save seed from infected plants"
-        ],
-        "severity": "Moderate to High",
-        "spread_rate": "High (mechanically transmitted)"
+    "prevention_tips": [
+      "THERE IS NO CURE FOR VIRUS-INFECTED PLANTS - prevention is everything",
+      "Whitefly management is the key to preventing TYLCV",
+      "Plant resistant varieties whenever available",
+      "Use insect-proof screenhouses for seedling production",
+      "Remove and destroy infected plants as soon as symptoms appear"
+    ],
+    "severity": "Critical",
+    "spread_rate": "Very High (via whitefly vector)"
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "disease_name": "Tomato Mosaic Virus (ToMV)",
+    "plant": "Tomato",
+    "scientific_name": "Tomato mosaic virus (Tobamovirus)",
+    "type": "Viral",
+    "is_healthy": false,
+    "description": "Tomato mosaic virus is a highly stable and contagious viral disease that causes mottled light and dark green patterns on leaves. Unlike many plant viruses, it is easily transmitted mechanically through contaminated hands, tools, and seed.",
+    "symptoms": [
+      "Mosaic pattern of light and dark green patches on leaves",
+      "Leaf curling and distortion (fernleaf symptoms)",
+      "Stunted plant growth",
+      "Reduced fruit size and yield",
+      "Yellow mottling or brown spots on fruit (internal browning)",
+      "Plants may show symptoms intermittently depending on temperature"
+    ],
+    "causes": [
+      "Virus is highly stable and can persist on surfaces for years",
+      "Transmitted mechanically through contaminated hands, tools, clothing",
+      "Can be seed-borne (survives on seed coat)",
+      "Tobacco products (cigarettes) can carry related tobacco mosaic virus",
+      "NOT transmitted by insects"
+    ],
+    "remedies": {
+      "chemical": [
+        "NO CHEMICAL TREATMENT EXISTS FOR VIRAL INFECTIONS",
+        "Disinfect tools with 20% bleach solution or 1% sodium hypochlorite",
+        "Dip hands in milk before handling plants (milk protein inactivates virus)",
+        "Use trisodium phosphate (TSP) solution to clean tools and surfaces"
+      ],
+      "organic": [
+        "Apply milk spray (20% milk solution) to plants - casein protein inhibits virus",
+        "No effective organic treatment for established infections",
+        "Focus on prevention through sanitation"
+      ],
+      "cultural": [
+        "Remove and destroy infected plants immediately",
+        "Wash hands thoroughly with soap before and after handling plants",
+        "Disinfect all tools, stakes, trays between use",
+        "Use certified virus-free seed or treat seed with 10% TSP for 30 minutes",
+        "Do not smoke or use tobacco products near tomato plants",
+        "Plant resistant varieties with Tm-2 or Tm-2(2) resistance genes",
+        "Start with virus-free transplants from reputable sources",
+        "Do not touch healthy plants after handling infected ones",
+        "Change clothing after working with infected plants"
+      ],
+      "biological": [
+        "Cross-protection using mild virus strains (commercial technique)",
+        "No practical biological control for home gardeners"
+      ]
     },
-
-    "Tomato___healthy": {
-        "disease_name": "Healthy",
-        "plant": "Tomato",
-        "scientific_name": null,
-        "type": "Healthy",
-        "is_healthy": true,
-        "description": "The tomato plant is healthy with no visible signs of disease. Leaves are dark green, properly formed, and free from spots, curling, mosaic patterns, or other abnormalities.",
-        "symptoms": [],
-        "causes": [],
-        "remedies": {
-            "maintenance": [
-                "Water consistently - 1-2 inches per week at base of plants",
-                "Use drip irrigation - avoid overhead watering",
-                "Mulch with straw, hay, or leaves (3-4 inches deep)",
-                "Stake or cage plants for support and air circulation",
-                "Remove suckers from indeterminate varieties for better airflow",
-                "Apply balanced fertilizer - avoid excess nitrogen",
-                "Add calcium (lime, gypsum) to prevent blossom end rot",
-                "Monitor for tomato hornworms, aphids, and whiteflies",
-                "Scout regularly for early signs of disease",
-                "Prune lower leaves as plant grows to prevent soil splash"
-            ]
-        },
-        "prevention_tips": [
-            "Rotate crops on a 3-4 year cycle",
-            "Use certified disease-free seed and transplants",
-            "Maintain proper spacing (24-36 inches between plants)",
-            "Apply preventive fungicide program in humid climates",
-            "Remove all plant debris at end of season",
-            "Disinfect stakes and cages between seasons"
-        ],
-        "severity": "None",
-        "spread_rate": "N/A"
-    }
+    "prevention_tips": [
+      "SANITATION IS THE MOST IMPORTANT CONTROL MEASURE",
+      "Plant resistant varieties - Tm-2 gene provides excellent resistance",
+      "Wash hands and disinfect tools constantly",
+      "This virus is extremely stable - it survives on surfaces for years",
+      "Do not save seed from infected plants"
+    ],
+    "severity": "Moderate to High",
+    "spread_rate": "High (mechanically transmitted)"
+  },
+  "Tomato___healthy": {
+    "disease_name": "Healthy",
+    "plant": "Tomato",
+    "scientific_name": null,
+    "type": "Healthy",
+    "is_healthy": true,
+    "description": "The tomato plant is healthy with no visible signs of disease. Leaves are dark green, properly formed, and free from spots, curling, mosaic patterns, or other abnormalities.",
+    "symptoms": [],
+    "causes": [],
+    "remedies": {
+      "maintenance": [
+        "Water consistently - 1-2 inches per week at base of plants",
+        "Use drip irrigation - avoid overhead watering",
+        "Mulch with straw, hay, or leaves (3-4 inches deep)",
+        "Stake or cage plants for support and air circulation",
+        "Remove suckers from indeterminate varieties for better airflow",
+        "Apply balanced fertilizer - avoid excess nitrogen",
+        "Add calcium (lime, gypsum) to prevent blossom end rot",
+        "Monitor for tomato hornworms, aphids, and whiteflies",
+        "Scout regularly for early signs of disease",
+        "Prune lower leaves as plant grows to prevent soil splash"
+      ]
+    },
+    "prevention_tips": [
+      "Rotate crops on a 3-4 year cycle",
+      "Use certified disease-free seed and transplants",
+      "Maintain proper spacing (24-36 inches between plants)",
+      "Apply preventive fungicide program in humid climates",
+      "Remove all plant debris at end of season",
+      "Disinfect stakes and cages between seasons"
+    ],
+    "severity": "None",
+    "spread_rate": "N/A"
+  },
+  "Banana___Cordana": {
+    "description": "Cordana leaf spot is a fungal disease causing oval, pale brown necrotic spots with dark borders, primarily on older leaves.",
+    "remedies": {
+      "chemical": [
+        "Apply appropriate fungicides like Mancozeb or Chlorothalonil",
+        "Use protective fungicidal sprays during high humidity"
+      ],
+      "organic": [
+        "Spray neem oil extracts as a natural deterrent",
+        "Apply copper-based organic sprays"
+      ],
+      "cultural": [
+        "Remove and destroy heavily infected leaves",
+        "Ensure proper weed control and drainage in the plantation",
+        "Maintain adequate spacing between plants to improve airflow"
+      ],
+      "biological": [
+        "Utilize Bacillus subtilis-based products to suppress fungal growth"
+      ]
+    },
+    "prevention_tips": [
+      "Prune appropriately to reduce canopy humidity",
+      "Avoid overhead irrigation",
+      "Monitor plants regularly during wet seasons"
+    ],
+    "severity": "Moderate",
+    "spread_rate": "Moderate"
+  },
+  "Banana___healthy": {
+    "is_healthy": true,
+    "description": "The banana plant appears healthy and shows no visible signs of Cordana, Pestalotiopsis, or Sigatoka diseases.",
+    "remedies": {
+      "maintenance": [
+        "Continue regular watering and fertilization",
+        "Monitor for early signs of pests or diseases",
+        "Maintain clean farm practices"
+      ]
+    },
+    "prevention_tips": [
+      "Conduct routine inspections of older and younger leaves",
+      "Maintain optimal soil health with balanced nutrients"
+    ],
+    "severity": "None",
+    "spread_rate": "None"
+  },
+  "Banana___Pestalotiopsis": {
+    "description": "Pestalotiopsis is a fungal infection characterized by tip dieback and leaf spots with grayish centers and dark margins.",
+    "remedies": {
+      "chemical": [
+        "Use approved broad-spectrum fungicides",
+        "Apply systemic fungicides if the infection is severe"
+      ],
+      "organic": [
+        "Apply sulfur or copper botanical sprays based on local guidelines"
+      ],
+      "cultural": [
+        "Cut off and burn infected leaves to reduce the source of spores",
+        "Improve plant nutrition (especially potassium) to enhance resistance"
+      ],
+      "biological": [
+        "Encourage beneficial soil microorganisms through compost"
+      ]
+    },
+    "prevention_tips": [
+      "Avoid bruising or damaging leaves during farm operations",
+      "Maintain balanced fertilization, avoiding excess nitrogen",
+      "Clear plantation debris regularly"
+    ],
+    "severity": "Low to Moderate",
+    "spread_rate": "Moderate"
+  },
+  "Banana___Sigatoka": {
+    "description": "Sigatoka (Yellow or Black) is a devastating foliar disease causing small yellow spots that enlarge into brown/black streaks, drastically reducing photosynthesis and yield.",
+    "remedies": {
+      "chemical": [
+        "Apply systemic fungicides like Propiconazole or Difenoconazole",
+        "Rotate fungicide classes to prevent resistance buildup",
+        "Use protectants like Mancozeb in combination with mineral oils"
+      ],
+      "organic": [
+        "Limited organic control available for severe outbreaks; rely on mineral oil sprays to slow spread"
+      ],
+      "cultural": [
+        "De-leaf infected areas promptly and leave them on the ground to decompose quickly or remove them",
+        "Enhance drainage and aeration around the bananas",
+        "Plant resistant or tolerant banana cultivars when possible"
+      ],
+      "biological": [
+        "Use bio-fungicides based on Trichoderma or Bacillus species protectively"
+      ]
+    },
+    "prevention_tips": [
+      "Implement a strict de-leafing and sanitation program",
+      "Utilize an early warning system based on weather data to time fungicide applications",
+      "Ensure wide plant spacing"
+    ],
+    "severity": "Severe",
+    "spread_rate": "High"
+  }
 }
